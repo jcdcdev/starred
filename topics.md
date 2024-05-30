@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [bash](#bash)
 - [code-review](#code-review)
 - [csharp](#csharp)
 - [css](#css)
@@ -21,8 +22,13 @@
 - [minecraft](#minecraft)
 - [others](#others)
 - [security](#security)
+- [shell](#shell)
 - [sql](#sql)
 - [testing](#testing)
+
+## bash 
+
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 
 ## code-review 
 
@@ -138,6 +144,10 @@
 ## security 
 
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
+
+## shell 
+
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 
 ## sql 
 
