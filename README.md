@@ -15,6 +15,7 @@
 - [Kotlin](#kotlin)
 - [Others](#others)
 - [Python](#python)
+- [Shell](#shell)
 - [TypeScript](#typescript)
 
 ## C# # 
@@ -99,6 +100,10 @@
 ## Python 
 
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
+
+## Shell 
+
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 
 ## TypeScript 
 
