@@ -37,6 +37,7 @@
 - [jcdcdev/jcdcdev.Eco.ShelfLife](https://github.com/jcdcdev/jcdcdev.Eco.ShelfLife) - 
 - [huwred/RTEStyleFormatter](https://github.com/huwred/RTEStyleFormatter) - 
 - [jcdcdev/Umbraco.Community.SimpleContentApps](https://github.com/jcdcdev/Umbraco.Community.SimpleContentApps) - Simplifies C# based Umbraco Content Apps 🌟
+- [jcdcdev/Umbraco.Community.BackOfficeOrganiser](https://github.com/jcdcdev/Umbraco.Community.BackOfficeOrganiser) - Keep your Umbraco CMS backoffice organised! 🧹
 - [thepensionsregulator/govuk-frontend-aspnetcore-extensions](https://github.com/thepensionsregulator/govuk-frontend-aspnetcore-extensions) - Adds client-side validation, additional components and editing in Umbraco to https://github.com/gunndabad/govuk-frontend-aspnetcore
 - [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
 - [jcdcdev/jcdcdev.Eco.Signs](https://github.com/jcdcdev/jcdcdev.Eco.Signs) - 
@@ -72,7 +73,6 @@
 - [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [jcdcdev/Umbraco.Community.SimpleDashboards](https://github.com/jcdcdev/Umbraco.Community.SimpleDashboards) - Simplifies C# based Umbraco CMS dashboards ✨
 - [jcdcdev/jcdcdev.Umbraco.Core](https://github.com/jcdcdev/jcdcdev.Umbraco.Core) - A library of essential Umbraco CMS extensions for Umbraco packages and websites 🔨
-- [jcdcdev/Umbraco.Community.BackOfficeOrganiser](https://github.com/jcdcdev/Umbraco.Community.BackOfficeOrganiser) - Keep your Umbraco CMS backoffice organised! 🧹
 - [LottePitcher/opinionated-package-starter](https://github.com/LottePitcher/opinionated-package-starter) - Get a head start when creating Umbraco Packages
 - [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 
