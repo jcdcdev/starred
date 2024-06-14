@@ -14,6 +14,7 @@
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -96,6 +97,10 @@
 - [jcdcdev/jcdcdev.Github.UmbracoSimpleDeploy](https://github.com/jcdcdev/jcdcdev.Github.UmbracoSimpleDeploy) - 
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
 - [unknownFalleN/xiaomi-dns-blocklist](https://github.com/unknownFalleN/xiaomi-dns-blocklist) - PiHole DNS Blocklist Xiaomi Domains
+
+## PowerShell 
+
+- [mattou07/azure-cli-quick-wins](https://github.com/mattou07/azure-cli-quick-wins) - Repo containing small scripts to perform long tedious tasks
 
 ## Python 
 
