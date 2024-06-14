@@ -104,6 +104,7 @@
 
 ## others 
 
+- [mattou07/azure-cli-quick-wins](https://github.com/mattou07/azure-cli-quick-wins) - Repo containing small scripts to perform long tedious tasks
 - [Method4Ltd/Method4.UmbracoMigrator.Target](https://github.com/Method4Ltd/Method4.UmbracoMigrator.Target) - The Method4 Umbraco Migrator allows migrating content and media from an Umbraco v7/v8 site to an Umbraco 10+ site.
 - [KevinJump/EarlyAdopters.Umbraco.Templates](https://github.com/KevinJump/EarlyAdopters.Umbraco.Templates) - Package templates for Umbraco 14 (pre-release)
 - [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Umbraco property editor for calculating reading time ⏲️
