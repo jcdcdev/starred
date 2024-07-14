@@ -114,6 +114,8 @@
 
 ## TypeScript 
 
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
+- [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [umbraco/Umbraco.CMS.Backoffice](https://github.com/umbraco/Umbraco.CMS.Backoffice) - Working repository for the Umbraco Backoffice project
 
