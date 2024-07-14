@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [angular](#angular)
 - [bash](#bash)
 - [code-review](#code-review)
 - [csharp](#csharp)
@@ -17,14 +18,23 @@
 - [gradle](#gradle)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
+- [http](#http)
 - [java](#java)
+- [javascript](#javascript)
 - [kotlin](#kotlin)
 - [minecraft](#minecraft)
+- [nextjs](#nextjs)
+- [nodejs](#nodejs)
 - [others](#others)
 - [security](#security)
 - [shell](#shell)
 - [sql](#sql)
 - [testing](#testing)
+- [typescript](#typescript)
+
+## angular 
+
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
 
 ## bash 
 
@@ -88,10 +98,18 @@
 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
+## http 
+
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
+
 ## java 
 
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
+
+## javascript 
+
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
 
 ## kotlin 
 
@@ -102,8 +120,17 @@
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
 
+## nextjs 
+
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
+
+## nodejs 
+
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
+
 ## others 
 
+- [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
 - [Gibe/Umbraco.Community.FrontDoorCache](https://github.com/Gibe/Umbraco.Community.FrontDoorCache) - Cache purging for Umbraco sites using Front Door as a CDN
 - [mattbegent/Umbraco.Community.SkrivLet](https://github.com/mattbegent/Umbraco.Community.SkrivLet) - A clean WYSIWYG property editor for distraction free writing in Umbraco.
 - [mattou07/azure-cli-quick-wins](https://github.com/mattou07/azure-cli-quick-wins) - Repo containing small scripts to perform long tedious tasks
@@ -159,6 +186,10 @@
 ## testing 
 
 - [mattbegent/umbraco-accessibility-reporter](https://github.com/mattbegent/umbraco-accessibility-reporter) - 
+
+## typescript 
+
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
 
 
 ## License
