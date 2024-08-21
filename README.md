@@ -44,6 +44,7 @@
 - [jcdcdev/Umbraco.Community.BackOfficeOrganiser](https://github.com/jcdcdev/Umbraco.Community.BackOfficeOrganiser) - Keep your Umbraco CMS backoffice organised! 🧹
 - [thepensionsregulator/govuk-frontend-aspnetcore-extensions](https://github.com/thepensionsregulator/govuk-frontend-aspnetcore-extensions) - Adds client-side validation, additional components and editing in Umbraco to https://github.com/gunndabad/govuk-frontend-aspnetcore
 - [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
+- [jcdcdev/jcdcdev.Eco.Signs](https://github.com/jcdcdev/jcdcdev.Eco.Signs) - 
 - [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) - 
 - [thomasfn/EcoCivicsImportExportMod](https://github.com/thomasfn/EcoCivicsImportExportMod) - 
 - [rickbutterfield/Umbraco.Community.BlockPreview](https://github.com/rickbutterfield/Umbraco.Community.BlockPreview) - Easy to use rich HTML backoffice previews for the Umbraco Block List and Block Grid editors.
@@ -103,7 +104,6 @@
 ## PowerShell 
 
 - [mattou07/azure-cli-quick-wins](https://github.com/mattou07/azure-cli-quick-wins) - Repo containing small scripts to perform long tedious tasks
-- [jcdcdev/jcdcdev.Eco.Signs](https://github.com/jcdcdev/jcdcdev.Eco.Signs) - 
 
 ## Python 
 
