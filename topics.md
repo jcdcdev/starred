@@ -130,6 +130,7 @@
 
 ## others 
 
+- [CabbageCrow/AssemblyPublicizer](https://github.com/CabbageCrow/AssemblyPublicizer) - A tool to create a copy of an assembly in which all members are public (types, methods, fields, getters and setters of properties).
 - [prjseal/Umbraco-13-Series](https://github.com/prjseal/Umbraco-13-Series) - 
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
 - [Gibe/Umbraco.Community.FrontDoorCache](https://github.com/Gibe/Umbraco.Community.FrontDoorCache) - Cache purging for Umbraco sites using Front Door as a CDN
