@@ -21,6 +21,7 @@
 
 ## C# # 
 
+- [CabbageCrow/AssemblyPublicizer](https://github.com/CabbageCrow/AssemblyPublicizer) - A tool to create a copy of an assembly in which all members are public (types, methods, fields, getters and setters of properties).
 - [Gibe/Umbraco.Community.FrontDoorCache](https://github.com/Gibe/Umbraco.Community.FrontDoorCache) - Cache purging for Umbraco sites using Front Door as a CDN
 - [SergeyGolovenchik/uConfig](https://github.com/SergeyGolovenchik/uConfig) - Server configuration viewer and editor for Umbraco CMS with embedded SqlConfigurationProvider
 - [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Umbraco property editor for calculating reading time ⏲️
