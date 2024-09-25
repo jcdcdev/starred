@@ -130,6 +130,7 @@
 
 ## others 
 
+- [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
 - [CabbageCrow/AssemblyPublicizer](https://github.com/CabbageCrow/AssemblyPublicizer) - A tool to create a copy of an assembly in which all members are public (types, methods, fields, getters and setters of properties).
 - [prjseal/Umbraco-13-Series](https://github.com/prjseal/Umbraco-13-Series) - 
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
