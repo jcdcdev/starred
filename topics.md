@@ -15,6 +15,7 @@
 - [dotnet](#dotnet)
 - [emoji](#emoji)
 - [git](#git)
+- [github](#github)
 - [gradle](#gradle)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -24,6 +25,7 @@
 - [kotlin](#kotlin)
 - [minecraft](#minecraft)
 - [nextjs](#nextjs)
+- [node](#node)
 - [nodejs](#nodejs)
 - [others](#others)
 - [security](#security)
@@ -80,6 +82,10 @@
 
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 
+## github 
+
+- [pyrbin/single-pr-updater](https://github.com/pyrbin/single-pr-updater) - Creates & updates a single pull request by given branch targets & label
+
 ## gradle 
 
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
@@ -123,6 +129,10 @@
 ## nextjs 
 
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
+
+## node 
+
+- [pyrbin/single-pr-updater](https://github.com/pyrbin/single-pr-updater) - Creates & updates a single pull request by given branch targets & label
 
 ## nodejs 
 
@@ -192,6 +202,7 @@
 
 ## typescript 
 
+- [pyrbin/single-pr-updater](https://github.com/pyrbin/single-pr-updater) - Creates & updates a single pull request by given branch targets & label
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
 
 
