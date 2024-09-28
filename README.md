@@ -116,6 +116,7 @@
 
 ## TypeScript 
 
+- [jaywcjlove/changelog-generator](https://github.com/jaywcjlove/changelog-generator) - A GitHub Action that compares the commit differences between two branches
 - [pyrbin/single-pr-updater](https://github.com/pyrbin/single-pr-updater) - Creates & updates a single pull request by given branch targets & label
 - [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
