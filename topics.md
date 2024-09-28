@@ -140,6 +140,7 @@
 
 ## others 
 
+- [jaywcjlove/changelog-generator](https://github.com/jaywcjlove/changelog-generator) - A GitHub Action that compares the commit differences between two branches
 - [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
 - [CabbageCrow/AssemblyPublicizer](https://github.com/CabbageCrow/AssemblyPublicizer) - A tool to create a copy of an assembly in which all members are public (types, methods, fields, getters and setters of properties).
 - [prjseal/Umbraco-13-Series](https://github.com/prjseal/Umbraco-13-Series) - 
