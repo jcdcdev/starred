@@ -92,6 +92,7 @@
 
 ## hacktoberfest 
 
+- [umbraco/Umbraco.UI](https://github.com/umbraco/Umbraco.UI) - Umbraco UI Components
 - [adam-werner/Our.Umbraco.StorageProviders.AWSS3](https://github.com/adam-werner/Our.Umbraco.StorageProviders.AWSS3) - An implementation of the Umbraco IFileSystem connecting your Umbraco Media section to an AWS S3 Storage bucket featuring middleware serving up media files from the `/media` path and ImageSharp image p
 - [umbraco/Umbraco.CMS.Backoffice](https://github.com/umbraco/Umbraco.CMS.Backoffice) - Working repository for the Umbraco Backoffice project
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
@@ -140,6 +141,7 @@
 
 ## others 
 
+- [umbraco/Umbraco.Packages](https://github.com/umbraco/Umbraco.Packages) - The online home of the Umbraco Package team
 - [jaywcjlove/changelog-generator](https://github.com/jaywcjlove/changelog-generator) - A GitHub Action that compares the commit differences between two branches
 - [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
 - [CabbageCrow/AssemblyPublicizer](https://github.com/CabbageCrow/AssemblyPublicizer) - A tool to create a copy of an assembly in which all members are public (types, methods, fields, getters and setters of properties).
