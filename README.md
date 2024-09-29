@@ -97,6 +97,7 @@
 
 ## Others 
 
+- [umbraco/Umbraco.Packages](https://github.com/umbraco/Umbraco.Packages) - The online home of the Umbraco Package team
 - [jcdcdev/jcdcdev.Github.ModioSyncDocs](https://github.com/jcdcdev/jcdcdev.Github.ModioSyncDocs) - Github action to upload images and readme from your mod repo to mod.io
 - [jcdcdev/jcdcdev.Github.UmbracoSimpleDeploy](https://github.com/jcdcdev/jcdcdev.Github.UmbracoSimpleDeploy) - 
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
@@ -116,6 +117,7 @@
 
 ## TypeScript 
 
+- [umbraco/Umbraco.UI](https://github.com/umbraco/Umbraco.UI) - Umbraco UI Components
 - [jaywcjlove/changelog-generator](https://github.com/jaywcjlove/changelog-generator) - A GitHub Action that compares the commit differences between two branches
 - [pyrbin/single-pr-updater](https://github.com/pyrbin/single-pr-updater) - Creates & updates a single pull request by given branch targets & label
 - [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
