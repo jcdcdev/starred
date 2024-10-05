@@ -95,6 +95,7 @@
 - [umbraco/Umbraco.UI](https://github.com/umbraco/Umbraco.UI) - Umbraco UI Components
 - [adam-werner/Our.Umbraco.StorageProviders.AWSS3](https://github.com/adam-werner/Our.Umbraco.StorageProviders.AWSS3) - An implementation of the Umbraco IFileSystem connecting your Umbraco Media section to an AWS S3 Storage bucket featuring middleware serving up media files from the `/media` path and ImageSharp image p
 - [umbraco/Umbraco.CMS.Backoffice](https://github.com/umbraco/Umbraco.CMS.Backoffice) - Working repository for the Umbraco Backoffice project
+- [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
 - [LottePitcher/opinionated-package-starter](https://github.com/LottePitcher/opinionated-package-starter) - Get a head start when creating Umbraco Packages
 - [mattbegent/umbraco-accessibility-reporter](https://github.com/mattbegent/umbraco-accessibility-reporter) - 
@@ -161,7 +162,6 @@
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [Jumoo/uSync.Complete.Hangfire](https://github.com/Jumoo/uSync.Complete.Hangfire) - Hangfire helpers for uSync.Complete
 - [skybrud/Skybrud.Essentials.Umbraco](https://github.com/skybrud/Skybrud.Essentials.Umbraco) - Skybrud.Essentials addon for working with Umbraco.
-- [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) - Basically Archimedes Ships, but with VS2 as the backend
 - [limbo-works/Limbo.Umbraco.Fetch](https://github.com/limbo-works/Limbo.Umbraco.Fetch) - Umbraco package for periodically downloading files to disk.
 - [ldtteam/minecolonies-dynmap](https://github.com/ldtteam/minecolonies-dynmap) - 
