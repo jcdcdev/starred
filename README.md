@@ -97,6 +97,7 @@
 
 ## Others 
 
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [umbraco/Umbraco.Packages](https://github.com/umbraco/Umbraco.Packages) - The online home of the Umbraco Package team
 - [jcdcdev/jcdcdev.Github.ModioSyncDocs](https://github.com/jcdcdev/jcdcdev.Github.ModioSyncDocs) - Github action to upload images and readme from your mod repo to mod.io
 - [jcdcdev/jcdcdev.Github.UmbracoSimpleDeploy](https://github.com/jcdcdev/jcdcdev.Github.UmbracoSimpleDeploy) - 
