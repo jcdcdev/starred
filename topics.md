@@ -94,6 +94,7 @@
 
 - [umbraco/Umbraco.UI](https://github.com/umbraco/Umbraco.UI) - Umbraco UI Components
 - [adam-werner/Our.Umbraco.StorageProviders.AWSS3](https://github.com/adam-werner/Our.Umbraco.StorageProviders.AWSS3) - An implementation of the Umbraco IFileSystem connecting your Umbraco Media section to an AWS S3 Storage bucket featuring middleware serving up media files from the `/media` path and ImageSharp image p
+- [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [umbraco/Umbraco.CMS.Backoffice](https://github.com/umbraco/Umbraco.CMS.Backoffice) - Working repository for the Umbraco Backoffice project
 - [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
@@ -160,7 +161,6 @@
 - [drummerboy46/Umbraco-Tag-Manager](https://github.com/drummerboy46/Umbraco-Tag-Manager) - Tag Utilities for Umbraco
 - [limbo-works/Limbo.Umbraco.RecycleBin](https://github.com/limbo-works/Limbo.Umbraco.RecycleBin) - RecycleBin package for Umbraco.
 - [skybrud/Skybrud.TextAnalysis](https://github.com/skybrud/Skybrud.TextAnalysis) - Hunspell text analysis package for .NET.
-- [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [Jumoo/uSync.Complete.Hangfire](https://github.com/Jumoo/uSync.Complete.Hangfire) - Hangfire helpers for uSync.Complete
 - [skybrud/Skybrud.Essentials.Umbraco](https://github.com/skybrud/Skybrud.Essentials.Umbraco) - Skybrud.Essentials addon for working with Umbraco.
