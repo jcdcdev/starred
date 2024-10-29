@@ -89,6 +89,7 @@
 
 ## JavaScript 
 
+- [Matthew-Wise/Umbraco-CSP-manager](https://github.com/Matthew-Wise/Umbraco-CSP-manager) - Content security policy manager for Umbraco
 - [mattbegent/Umbraco.Community.SkrivLet](https://github.com/mattbegent/Umbraco.Community.SkrivLet) - A clean WYSIWYG property editor for distraction free writing in Umbraco.
 - [mattbegent/umbraco-accessibility-reporter](https://github.com/mattbegent/umbraco-accessibility-reporter) - 
 
