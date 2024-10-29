@@ -92,6 +92,7 @@
 
 ## hacktoberfest 
 
+- [Matthew-Wise/Umbraco-CSP-manager](https://github.com/Matthew-Wise/Umbraco-CSP-manager) - Content security policy manager for Umbraco
 - [umbraco/Umbraco.UI](https://github.com/umbraco/Umbraco.UI) - Umbraco UI Components
 - [adam-werner/Our.Umbraco.StorageProviders.AWSS3](https://github.com/adam-werner/Our.Umbraco.StorageProviders.AWSS3) - An implementation of the Umbraco IFileSystem connecting your Umbraco Media section to an AWS S3 Storage bucket featuring middleware serving up media files from the `/media` path and ImageSharp image p
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
@@ -191,6 +192,7 @@
 
 ## security 
 
+- [Matthew-Wise/Umbraco-CSP-manager](https://github.com/Matthew-Wise/Umbraco-CSP-manager) - Content security policy manager for Umbraco
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 
 ## shell 
