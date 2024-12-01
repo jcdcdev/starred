@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [C#](#c#)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
@@ -18,6 +19,10 @@
 - [Python](#python)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+
+## C 
+
+- [ThioJoe/jpeg2png](https://github.com/ThioJoe/jpeg2png) - silky smooth JPEG decoding
 
 ## C# # 
 
