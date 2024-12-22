@@ -127,6 +127,7 @@
 
 ## TypeScript 
 
+- [mattou07/actions-uSync-cli](https://github.com/mattou07/actions-uSync-cli) - A Github action wrapper for https://github.com/Jumoo/uSync.CommandLine
 - [Green-Software-Foundation/if](https://github.com/Green-Software-Foundation/if) - Impact Framework
 - [umbraco/Umbraco.UI](https://github.com/umbraco/Umbraco.UI) - Umbraco UI Components
 - [jaywcjlove/changelog-generator](https://github.com/jaywcjlove/changelog-generator) - A GitHub Action that compares the commit differences between two branches
