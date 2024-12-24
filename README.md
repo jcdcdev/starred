@@ -89,6 +89,7 @@
 
 ## Java 
 
+- [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty) - Minecraft mod that adds over 50 new biomes to the game.
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 - [ldtteam/minecolonies-dynmap](https://github.com/ldtteam/minecolonies-dynmap) - 
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
