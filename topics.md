@@ -158,7 +158,7 @@
 
 - [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty) - Minecraft mod that adds over 50 new biomes to the game.
 - [mattou07/actions-uSync-cli](https://github.com/mattou07/actions-uSync-cli) - A Github action wrapper for https://github.com/Jumoo/uSync.CommandLine
-- [ThioJoe/jpeg2png](https://github.com/ThioJoe/jpeg2png) - silky smooth JPEG decoding
+- [ThioJoe/jpeg2png](https://github.com/ThioJoe/jpeg2png) - Silky smooth JPEG decoding - Forked with a few bug fixes
 - [ByteCrumb/Umbraco.Community.DeliveryApiExtensions](https://github.com/ByteCrumb/Umbraco.Community.DeliveryApiExtensions) - Umbraco Delivery API extensions⚡
 - [AndyBoot/Umbraco.Community.ClientDrawer](https://github.com/AndyBoot/Umbraco.Community.ClientDrawer) - An Umbraco package for providing your clients a small toolbox of useful links and information. If your website is one of many sites based on a shared platform then this package is perfect for you.
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
