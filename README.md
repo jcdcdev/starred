@@ -22,7 +22,7 @@
 
 ## C 
 
-- [ThioJoe/jpeg2png](https://github.com/ThioJoe/jpeg2png) - silky smooth JPEG decoding
+- [ThioJoe/jpeg2png](https://github.com/ThioJoe/jpeg2png) - Silky smooth JPEG decoding - Forked with a few bug fixes
 
 ## C# # 
 
