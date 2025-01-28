@@ -156,6 +156,7 @@
 
 ## others 
 
+- [Eptagone/Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Small library to integrate Vite into ASP.NET projects
 - [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty) - Minecraft mod that adds over 50 new biomes to the game.
 - [mattou07/actions-uSync-cli](https://github.com/mattou07/actions-uSync-cli) - A Github action wrapper for https://github.com/Jumoo/uSync.CommandLine
 - [ThioJoe/jpeg2png](https://github.com/ThioJoe/jpeg2png) - Silky smooth JPEG decoding - Forked with a few bug fixes
