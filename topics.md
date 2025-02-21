@@ -171,6 +171,7 @@
 
 ## others 
 
+- [KoenVanduffel/CR-6_Klipper](https://github.com/KoenVanduffel/CR-6_Klipper) - A repository for Klipper firmware details for the Creality CR-6 printers.
 - [Zeegaan/UnusedMedia](https://github.com/Zeegaan/UnusedMedia) - This is a package, that will show any unused media in the Umbraco Media Section
 - [Eptagone/Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Small library to integrate Vite into ASP.NET projects
 - [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty) - Minecraft mod that adds over 50 new biomes to the game.
