@@ -171,6 +171,7 @@
 
 ## others 
 
+- [stevetemple/Umbraco.Community.ApplicationInsightsLogging](https://github.com/stevetemple/Umbraco.Community.ApplicationInsightsLogging) - 
 - [CR6Community/Hardware](https://github.com/CR6Community/Hardware) - Open-source hardware and reverse-engineering
 - [KoenVanduffel/CR-6_Klipper](https://github.com/KoenVanduffel/CR-6_Klipper) - A repository for Klipper firmware details for the Creality CR-6 printers.
 - [Zeegaan/UnusedMedia](https://github.com/Zeegaan/UnusedMedia) - This is a package, that will show any unused media in the Umbraco Media Section
