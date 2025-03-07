@@ -27,7 +27,6 @@
 
 ## C# # 
 
-- [Zeegaan/UnusedMedia](https://github.com/Zeegaan/UnusedMedia) - This is a package, that will show any unused media in the Umbraco Media Section
 - [Eptagone/Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Small library to integrate Vite into ASP.NET projects
 - [Shazwazza/Examine](https://github.com/Shazwazza/Examine) - A .NET indexing and search engine powered by Lucene.Net
 - [ByteCrumb/Umbraco.Community.DeliveryApiExtensions](https://github.com/ByteCrumb/Umbraco.Community.DeliveryApiExtensions) - Umbraco Delivery API extensions⚡
@@ -134,6 +133,7 @@
 ## TypeScript 
 
 - [stevetemple/Umbraco.Community.ApplicationInsightsLogging](https://github.com/stevetemple/Umbraco.Community.ApplicationInsightsLogging) - 
+- [Zeegaan/UnusedMedia](https://github.com/Zeegaan/UnusedMedia) - This is a package, that will show any unused media in the Umbraco Media Section
 - [mattou07/actions-uSync-cli](https://github.com/mattou07/actions-uSync-cli) - A Github action wrapper for https://github.com/Jumoo/uSync.CommandLine
 - [Green-Software-Foundation/if](https://github.com/Green-Software-Foundation/if) - Impact Framework
 - [umbraco/Umbraco.UI](https://github.com/umbraco/Umbraco.UI) - Umbraco UI Components
