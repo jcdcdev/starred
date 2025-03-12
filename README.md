@@ -62,6 +62,7 @@
 - [skybrud/Skybrud.Umbraco.GridData](https://github.com/skybrud/Skybrud.Umbraco.GridData) - Strongly typed model for the grid in Umbraco.
 - [skybrud/Skybrud.Umbraco.GridData.LeBlender](https://github.com/skybrud/Skybrud.Umbraco.GridData.LeBlender) - LeBlender add-on for Skybrud.Umbraco.GridData.
 - [DanDiplo/UmbracoTraceLogViewer](https://github.com/DanDiplo/UmbracoTraceLogViewer) - An Umbraco 7.x extension for viewing Umbraco trace log files within the Developer section of Umbraco
+- [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 - [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
 
 ## CSS 
@@ -87,7 +88,6 @@
 - [Jumoo/uSync.Complete.Hangfire](https://github.com/Jumoo/uSync.Complete.Hangfire) - Hangfire helpers for uSync.Complete
 - [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [LottePitcher/opinionated-package-starter](https://github.com/LottePitcher/opinionated-package-starter) - Get a head start when creating Umbraco Packages
-- [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 
 ## Java 
 
