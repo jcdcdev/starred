@@ -220,7 +220,7 @@
 - [jcdcdev/jcdcdev.Eco.Signs](https://github.com/jcdcdev/jcdcdev.Eco.Signs) - 
 - [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) - 
 - [thomasfn/EcoCivicsImportExportMod](https://github.com/thomasfn/EcoCivicsImportExportMod) - 
-- [RoggerFabri/mopidy-icesnap](https://github.com/RoggerFabri/mopidy-icesnap) - 
+- [RoggerFabri/mopidy-icesnap](https://github.com/RoggerFabri/mopidy-icesnap) - Dockerized audio streaming with Mopidy + Icecast or Snapcast for internet radio or synchronised multi-room playback.
 - [Tawling/MultiPause](https://github.com/Tawling/MultiPause) - A Stardew Valley mod to allow time to pause in multiplayer.
 - [unknownFalleN/xiaomi-dns-blocklist](https://github.com/unknownFalleN/xiaomi-dns-blocklist) - PiHole DNS Blocklist Xiaomi Domains
 - [DanDiplo/UmbracoTraceLogViewer](https://github.com/DanDiplo/UmbracoTraceLogViewer) - An Umbraco 7.x extension for viewing Umbraco trace log files within the Developer section of Umbraco
