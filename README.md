@@ -144,7 +144,7 @@
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
-- [rickbutterfield/Umbraco.Community.BlockPreview](https://github.com/rickbutterfield/Umbraco.Community.BlockPreview) - Easy to use rich HTML backoffice previews for the Umbraco Block List and Block Grid editors.
+- [rickbutterfield/BlockPreview](https://github.com/rickbutterfield/BlockPreview) - Easy to use rich HTML backoffice previews for the Umbraco Block List and Block Grid editors.
 
 ## TypeSpec 
 
