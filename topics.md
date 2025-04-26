@@ -171,6 +171,8 @@
 
 ## others 
 
+- [kjac/NoCode.DeliveryApi](https://github.com/kjac/NoCode.DeliveryApi) - No-code tools for the Umbraco Delivery API
+- [kjac/NoCode.HeadlessMode](https://github.com/kjac/NoCode.HeadlessMode) - No-code headless mode for Umbraco
 - [Rockerby/Umbraco.Community.RollbackPreviewer](https://github.com/Rockerby/Umbraco.Community.RollbackPreviewer) - 
 - [stevetemple/Umbraco.Community.ApplicationInsightsLogging](https://github.com/stevetemple/Umbraco.Community.ApplicationInsightsLogging) - 
 - [CR6Community/Hardware](https://github.com/CR6Community/Hardware) - Open-source hardware and reverse-engineering
