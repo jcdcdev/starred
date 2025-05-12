@@ -136,6 +136,7 @@
 
 ## TypeScript 
 
+- [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 - [stevetemple/Umbraco.Community.ApplicationInsightsLogging](https://github.com/stevetemple/Umbraco.Community.ApplicationInsightsLogging) - 
 - [Zeegaan/UnusedMedia](https://github.com/Zeegaan/UnusedMedia) - This is a package, that will show any unused media in the Umbraco Media Section
 - [mattou07/actions-uSync-cli](https://github.com/mattou07/actions-uSync-cli) - A Github action wrapper for https://github.com/Jumoo/uSync.CommandLine
