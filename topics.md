@@ -173,6 +173,7 @@
 
 ## others 
 
+- [kjac/Kjac.HeadlessPreview](https://github.com/kjac/Kjac.HeadlessPreview) - Back-Office Preview package for Umbraco
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) - Caddy module: dns.providers.cloudflare
 - [kjac/NoCode.DeliveryApi](https://github.com/kjac/NoCode.DeliveryApi) - No-code tools for the Umbraco Delivery API
 - [kjac/NoCode.HeadlessMode](https://github.com/kjac/NoCode.HeadlessMode) - No-code headless mode for Umbraco
