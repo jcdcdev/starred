@@ -41,6 +41,7 @@
 - [limbo-works/Limbo.Umbraco.RecycleBin](https://github.com/limbo-works/Limbo.Umbraco.RecycleBin) - RecycleBin package for Umbraco.
 - [skybrud/Skybrud.TextAnalysis](https://github.com/skybrud/Skybrud.TextAnalysis) - Hunspell text analysis package for .NET.
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
+- [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [skybrud/Skybrud.Essentials.Umbraco](https://github.com/skybrud/Skybrud.Essentials.Umbraco) - Skybrud.Essentials addon for working with Umbraco.
 - [limbo-works/Limbo.Umbraco.Fetch](https://github.com/limbo-works/Limbo.Umbraco.Fetch) - Umbraco package for periodically downloading files to disk.
@@ -148,7 +149,6 @@
 - [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
-- [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [rickbutterfield/BlockPreview](https://github.com/rickbutterfield/BlockPreview) - Easy to use rich HTML backoffice previews for the Umbraco Block List and Block Grid editors.
 
 ## TypeSpec 
