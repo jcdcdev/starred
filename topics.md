@@ -173,6 +173,7 @@
 
 ## others 
 
+- [nielslyngsoe/cg25-umbrago-next-level-backoffice](https://github.com/nielslyngsoe/cg25-umbrago-next-level-backoffice) - The Umbrago extensions, for the CG25 talk called: Next-Level Backoffice
 - [kjac/Kjac.HeadlessPreview](https://github.com/kjac/Kjac.HeadlessPreview) - Back-Office Preview package for Umbraco
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) - Caddy module: dns.providers.cloudflare
 - [kjac/NoCode.DeliveryApi](https://github.com/kjac/NoCode.DeliveryApi) - No-code tools for the Umbraco Delivery API
