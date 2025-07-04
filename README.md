@@ -137,6 +137,7 @@
 
 ## TypeScript 
 
+- [KevinJump/Umbraco-Tree-Example](https://github.com/KevinJump/Umbraco-Tree-Example) - Example as to how to render a tree in the new umbraco backoffice.
 - [nielslyngsoe/cg25-umbrago-next-level-backoffice](https://github.com/nielslyngsoe/cg25-umbrago-next-level-backoffice) - The Umbrago extensions, for the CG25 talk called: Next-Level Backoffice
 - [kjac/Kjac.HeadlessPreview](https://github.com/kjac/Kjac.HeadlessPreview) - Back-Office Preview package for Umbraco
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
