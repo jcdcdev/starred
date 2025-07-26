@@ -179,6 +179,7 @@
 
 ## others 
 
+- [Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream](https://github.com/Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream) - Upload videos directly to Cloudflare Stream (CFS) within Umbraco CMS
 - [Matthew-Wise/umbraco-mcp](https://github.com/Matthew-Wise/umbraco-mcp) - A model context protocol  (MCP) server for Umbraco
 - [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
 - [KevinJump/Umbraco-Tree-Example](https://github.com/KevinJump/Umbraco-Tree-Example) - Example as to how to render a tree in the new umbraco backoffice.
