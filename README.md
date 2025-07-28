@@ -42,7 +42,6 @@
 - [limbo-works/Limbo.Umbraco.RecycleBin](https://github.com/limbo-works/Limbo.Umbraco.RecycleBin) - RecycleBin package for Umbraco.
 - [skybrud/Skybrud.TextAnalysis](https://github.com/skybrud/Skybrud.TextAnalysis) - Hunspell text analysis package for .NET.
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
-- [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [skybrud/Skybrud.Essentials.Umbraco](https://github.com/skybrud/Skybrud.Essentials.Umbraco) - Skybrud.Essentials addon for working with Umbraco.
 - [limbo-works/Limbo.Umbraco.Fetch](https://github.com/limbo-works/Limbo.Umbraco.Fetch) - Umbraco package for periodically downloading files to disk.
@@ -89,6 +88,7 @@
 
 ## HTML 
 
+- [LottePitcher/open-source-umbraco-cloud](https://github.com/LottePitcher/open-source-umbraco-cloud) - Repo for testing a public (aka open-source) working repository for an Umbraco Cloud site
 - [kjac/NoCode.HeadlessMode](https://github.com/kjac/NoCode.HeadlessMode) - No-code headless mode for Umbraco
 - [KevinJump/EarlyAdopters.Umbraco.Templates](https://github.com/KevinJump/EarlyAdopters.Umbraco.Templates) - Package templates for Umbraco 14 (pre-release)
 - [Jumoo/uSync.Complete.Hangfire](https://github.com/Jumoo/uSync.Complete.Hangfire) - Hangfire helpers for uSync.Complete
@@ -130,6 +130,7 @@
 
 ## Python 
 
+- [RimSort/RimSort](https://github.com/RimSort/RimSort) - RimSort is an open source mod manager for the video game RimWorld. There is support for Linux, Mac, and Windows, built from the ground up to be a reliable, community-managed alternative to RimPy Mod M
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
 
 ## Shell 
@@ -154,6 +155,7 @@
 - [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
+- [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [rickbutterfield/BlockPreview](https://github.com/rickbutterfield/BlockPreview) - Easy to use rich HTML backoffice previews for the Umbraco Block List and Block Grid editors.
 
 ## TypeSpec 
