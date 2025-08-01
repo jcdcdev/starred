@@ -27,6 +27,7 @@
 
 ## C# # 
 
+- [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
 - [Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream](https://github.com/Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream) - Upload videos directly to Cloudflare Stream (CFS) within Umbraco CMS
 - [kjac/NoCode.DeliveryApi](https://github.com/kjac/NoCode.DeliveryApi) - No-code tools for the Umbraco Delivery API
 - [Eptagone/Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Small library to integrate Vite into ASP.NET projects
