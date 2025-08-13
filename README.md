@@ -45,6 +45,7 @@
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [skybrud/Skybrud.Essentials.Umbraco](https://github.com/skybrud/Skybrud.Essentials.Umbraco) - Skybrud.Essentials addon for working with Umbraco.
+- [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [limbo-works/Limbo.Umbraco.Fetch](https://github.com/limbo-works/Limbo.Umbraco.Fetch) - Umbraco package for periodically downloading files to disk.
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [jcdcdev/jcdcdev.Eco.Core](https://github.com/jcdcdev/jcdcdev.Eco.Core) - 
@@ -92,7 +93,6 @@
 - [kjac/NoCode.HeadlessMode](https://github.com/kjac/NoCode.HeadlessMode) - No-code headless mode for Umbraco
 - [KevinJump/EarlyAdopters.Umbraco.Templates](https://github.com/KevinJump/EarlyAdopters.Umbraco.Templates) - Package templates for Umbraco 14 (pre-release)
 - [Jumoo/uSync.Complete.Hangfire](https://github.com/Jumoo/uSync.Complete.Hangfire) - Hangfire helpers for uSync.Complete
-- [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [LottePitcher/opinionated-package-starter](https://github.com/LottePitcher/opinionated-package-starter) - Get a head start when creating Umbraco Packages
 
 ## Java 
