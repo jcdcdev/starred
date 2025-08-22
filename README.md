@@ -76,6 +76,7 @@
 - [prjseal/Umbraco-13-Series](https://github.com/prjseal/Umbraco-13-Series) - 
 - [AspireSystemsUK/Method4.UmbracoMigrator.Target](https://github.com/AspireSystemsUK/Method4.UmbracoMigrator.Target) - The Method4 Umbraco Migrator allows migrating content and media from an Umbraco v7/v8 site to an Umbraco 10+ site.
 - [drummerboy46/Umbraco-Tag-Manager](https://github.com/drummerboy46/Umbraco-Tag-Manager) - Tag Utilities for Umbraco
+- [Jumoo/uSync.Hangfire](https://github.com/Jumoo/uSync.Hangfire) - Hangfire helpers for uSync.Complete
 - [RoggerFabri/mopidy-icesnap](https://github.com/RoggerFabri/mopidy-icesnap) - Dockerized audio streaming with Mopidy + Icecast or Snapcast for internet radio or synchronised multi-room playback.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
@@ -92,7 +93,6 @@
 
 - [kjac/NoCode.HeadlessMode](https://github.com/kjac/NoCode.HeadlessMode) - No-code headless mode for Umbraco
 - [KevinJump/EarlyAdopters.Umbraco.Templates](https://github.com/KevinJump/EarlyAdopters.Umbraco.Templates) - Package templates for Umbraco 14 (pre-release)
-- [Jumoo/uSync.Complete.Hangfire](https://github.com/Jumoo/uSync.Complete.Hangfire) - Hangfire helpers for uSync.Complete
 - [LottePitcher/opinionated-package-starter](https://github.com/LottePitcher/opinionated-package-starter) - Get a head start when creating Umbraco Packages
 
 ## Java 
