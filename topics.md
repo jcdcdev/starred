@@ -221,7 +221,7 @@
 - [limbo-works/Limbo.Umbraco.RecycleBin](https://github.com/limbo-works/Limbo.Umbraco.RecycleBin) - RecycleBin package for Umbraco.
 - [skybrud/Skybrud.TextAnalysis](https://github.com/skybrud/Skybrud.TextAnalysis) - Hunspell text analysis package for .NET.
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
-- [Jumoo/uSync.Complete.Hangfire](https://github.com/Jumoo/uSync.Complete.Hangfire) - Hangfire helpers for uSync.Complete
+- [Jumoo/uSync.Hangfire](https://github.com/Jumoo/uSync.Hangfire) - Hangfire helpers for uSync.Complete
 - [skybrud/Skybrud.Essentials.Umbraco](https://github.com/skybrud/Skybrud.Essentials.Umbraco) - Skybrud.Essentials addon for working with Umbraco.
 - [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) - Basically Archimedes Ships, but with VS2 as the backend
 - [limbo-works/Limbo.Umbraco.Fetch](https://github.com/limbo-works/Limbo.Umbraco.Fetch) - Umbraco package for periodically downloading files to disk.
