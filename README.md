@@ -138,7 +138,7 @@
 
 ## TypeScript 
 
-- [LottePitcher/open-source-umbraco-cloud](https://github.com/LottePitcher/open-source-umbraco-cloud) - Repo for testing a public (aka open-source) working repository for an Umbraco Cloud site
+- [LottePitcher/open-source-umbraco-cloud](https://github.com/LottePitcher/open-source-umbraco-cloud) - Example of a public/open-source working repository for an Umbraco Cloud site
 - [Matthew-Wise/umbraco-mcp](https://github.com/Matthew-Wise/umbraco-mcp) - A model context protocol  (MCP) server for Umbraco
 - [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
 - [KevinJump/Umbraco-Tree-Example](https://github.com/KevinJump/Umbraco-Tree-Example) - Example as to how to render a tree in the new umbraco backoffice.
