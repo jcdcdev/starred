@@ -33,6 +33,7 @@
 - [Eptagone/Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Small library to integrate Vite into ASP.NET projects
 - [Shazwazza/Examine](https://github.com/Shazwazza/Examine) - A .NET indexing and search engine powered by Lucene.Net
 - [ByteCrumb/Umbraco.Community.DeliveryApiExtensions](https://github.com/ByteCrumb/Umbraco.Community.DeliveryApiExtensions) - Umbraco Delivery API extensions⚡
+- [Matthew-Wise/Umbraco-CSP-manager](https://github.com/Matthew-Wise/Umbraco-CSP-manager) - Content security policy manager for Umbraco
 - [CabbageCrow/AssemblyPublicizer](https://github.com/CabbageCrow/AssemblyPublicizer) - A tool to create a copy of an assembly in which all members are public (types, methods, fields, getters and setters of properties).
 - [Gibe/Umbraco.Community.FrontDoorCache](https://github.com/Gibe/Umbraco.Community.FrontDoorCache) - Cache purging for Umbraco sites using Front Door as a CDN
 - [SergeyGolovenchik/uConfig](https://github.com/SergeyGolovenchik/uConfig) - Server configuration viewer and editor for Umbraco CMS with embedded SqlConfigurationProvider
@@ -149,7 +150,6 @@
 - [Zeegaan/UnusedMedia](https://github.com/Zeegaan/UnusedMedia) - This is a package, that will show any unused media in the Umbraco Media Section
 - [mattou07/actions-uSync-cli](https://github.com/mattou07/actions-uSync-cli) - A Github action wrapper for https://github.com/Jumoo/uSync.CommandLine
 - [Green-Software-Foundation/if](https://github.com/Green-Software-Foundation/if) - Impact Framework
-- [Matthew-Wise/Umbraco-CSP-manager](https://github.com/Matthew-Wise/Umbraco-CSP-manager) - Content security policy manager for Umbraco
 - [umbraco/Umbraco.UI](https://github.com/umbraco/Umbraco.UI) - Umbraco UI Components
 - [jaywcjlove/changelog-generator](https://github.com/jaywcjlove/changelog-generator) - A GitHub Action that compares the commit differences between two branches
 - [pyrbin/single-pr-updater](https://github.com/pyrbin/single-pr-updater) - Creates & updates a single pull request by given branch targets & label
