@@ -181,6 +181,8 @@
 
 ## others 
 
+- [umbraco/Umbraco-MCP](https://github.com/umbraco/Umbraco-MCP) - 
+- [umbraco/Umbraco.Cms.Search](https://github.com/umbraco/Umbraco.Cms.Search) - Search abstractions and implementations for Umbraco - The Future of Search
 - [RimSort/RimSort](https://github.com/RimSort/RimSort) - RimSort is an open source mod manager for the video game RimWorld. There is support for Linux, Mac, and Windows, built from the ground up to be a reliable, community-managed alternative to RimPy Mod M
 - [LottePitcher/open-source-umbraco-cloud](https://github.com/LottePitcher/open-source-umbraco-cloud) - Example of a public/open-source working repository for an Umbraco Cloud site
 - [Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream](https://github.com/Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream) - Upload videos directly to Cloudflare Stream (CFS) within Umbraco CMS
