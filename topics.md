@@ -181,6 +181,8 @@
 
 ## others 
 
+- [umbraco/Umbraco.Cloud.CICDFlow.Samples](https://github.com/umbraco/Umbraco.Cloud.CICDFlow.Samples) - 
+- [LouieRichardson99/astrolab-ui](https://github.com/LouieRichardson99/astrolab-ui) - View your Astro components in one place, letting you preview them and interactively adjust props and slots in real time
 - [umbraco/Umbraco-MCP](https://github.com/umbraco/Umbraco-MCP) - 
 - [umbraco/Umbraco.Cms.Search](https://github.com/umbraco/Umbraco.Cms.Search) - Search abstractions and implementations for Umbraco - The Future of Search
 - [RimSort/RimSort](https://github.com/RimSort/RimSort) - RimSort is an open source mod manager for the video game RimWorld. There is support for Linux, Mac, and Windows, built from the ground up to be a reliable, community-managed alternative to RimPy Mod M
