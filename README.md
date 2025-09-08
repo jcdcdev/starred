@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [CSS](#css)
@@ -20,6 +21,10 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [TypeSpec](#typespec)
+
+## Astro 
+
+- [LouieRichardson99/astrolab-ui](https://github.com/LouieRichardson99/astrolab-ui) - View your Astro components in one place, letting you preview them and interactively adjust props and slots in real time
 
 ## C 
 
@@ -127,6 +132,7 @@
 
 ## PowerShell 
 
+- [umbraco/Umbraco.Cloud.CICDFlow.Samples](https://github.com/umbraco/Umbraco.Cloud.CICDFlow.Samples) - 
 - [mattou07/azure-cli-quick-wins](https://github.com/mattou07/azure-cli-quick-wins) - Repo containing small scripts to perform long tedious tasks
 
 ## Python 
