@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [CSS](#css)
@@ -21,10 +20,6 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [TypeSpec](#typespec)
-
-## Astro 
-
-- [LouieRichardson99/astrolab-ui](https://github.com/LouieRichardson99/astrolab-ui) - View your Astro components in one place, letting you preview them and interactively adjust props and slots in real time
 
 ## C 
 
@@ -146,6 +141,7 @@
 
 ## TypeScript 
 
+- [LouieRichardson99/astrolab-ui](https://github.com/LouieRichardson99/astrolab-ui) - View your Astro components in one place, letting you preview them and interactively adjust props and slots in real time
 - [umbraco/Umbraco-MCP](https://github.com/umbraco/Umbraco-MCP) - 
 - [LottePitcher/open-source-umbraco-cloud](https://github.com/LottePitcher/open-source-umbraco-cloud) - Example of a public/open-source working repository for an Umbraco Cloud site
 - [Matthew-Wise/umbraco-mcp](https://github.com/Matthew-Wise/umbraco-mcp) - A model context protocol  (MCP) server for Umbraco
