@@ -181,6 +181,7 @@
 
 ## others 
 
+- [skttl/umbraco-mux](https://github.com/skttl/umbraco-mux) - A property editor for Umbraco CMS for syncing uploaded videos with Mux.com
 - [umbraco/Umbraco.Cloud.CICDFlow.Samples](https://github.com/umbraco/Umbraco.Cloud.CICDFlow.Samples) - 
 - [LouieRichardson99/astrolab-ui](https://github.com/LouieRichardson99/astrolab-ui) - View your Astro components in one place, letting you preview them and interactively adjust props and slots in real time
 - [umbraco/Umbraco-MCP](https://github.com/umbraco/Umbraco-MCP) - 
