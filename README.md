@@ -27,6 +27,7 @@
 
 ## C# # 
 
+- [skttl/umbraco-mux](https://github.com/skttl/umbraco-mux) - A property editor for Umbraco CMS for syncing uploaded videos with Mux.com
 - [umbraco/Umbraco.Cms.Search](https://github.com/umbraco/Umbraco.Cms.Search) - Search abstractions and implementations for Umbraco - The Future of Search
 - [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
 - [Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream](https://github.com/Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream) - Upload videos directly to Cloudflare Stream (CFS) within Umbraco CMS
@@ -44,7 +45,6 @@
 - [adam-werner/Our.Umbraco.StorageProviders.AWSS3](https://github.com/adam-werner/Our.Umbraco.StorageProviders.AWSS3) - An implementation of the Umbraco IFileSystem connecting your Umbraco Media section to an AWS S3 Storage bucket featuring middleware serving up media files from the `/media` path and ImageSharp image p
 - [limbo-works/Limbo.Umbraco.RecycleBin](https://github.com/limbo-works/Limbo.Umbraco.RecycleBin) - RecycleBin package for Umbraco.
 - [skybrud/Skybrud.TextAnalysis](https://github.com/skybrud/Skybrud.TextAnalysis) - Hunspell text analysis package for .NET.
-- [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [skybrud/Skybrud.Essentials.Umbraco](https://github.com/skybrud/Skybrud.Essentials.Umbraco) - Skybrud.Essentials addon for working with Umbraco.
 - [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
@@ -160,6 +160,7 @@
 - [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
+- [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [rickbutterfield/BlockPreview](https://github.com/rickbutterfield/BlockPreview) - Easy to use rich HTML backoffice previews for the Umbraco Block List and Block Grid editors.
 
