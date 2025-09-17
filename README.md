@@ -93,6 +93,7 @@
 
 ## HTML 
 
+- [jemayn/RightClicker](https://github.com/jemayn/RightClicker) - 
 - [kjac/NoCode.HeadlessMode](https://github.com/kjac/NoCode.HeadlessMode) - No-code headless mode for Umbraco
 - [KevinJump/EarlyAdopters.Umbraco.Templates](https://github.com/KevinJump/EarlyAdopters.Umbraco.Templates) - Package templates for Umbraco 14 (pre-release)
 - [LottePitcher/opinionated-package-starter](https://github.com/LottePitcher/opinionated-package-starter) - Get a head start when creating Umbraco Packages
@@ -141,8 +142,9 @@
 
 ## TypeScript 
 
+- [OwainWilliams/umbPublisher](https://github.com/OwainWilliams/umbPublisher) - An Obsidian Plugin that allows you to push notes to Umbraco 15+ as content nodes
 - [LouieRichardson99/astrolab-ui](https://github.com/LouieRichardson99/astrolab-ui) - View your Astro components in one place, letting you preview them and interactively adjust props and slots in real time
-- [umbraco/Umbraco-MCP](https://github.com/umbraco/Umbraco-MCP) - 
+- [umbraco/Umbraco-CMS-MCP-Dev](https://github.com/umbraco/Umbraco-CMS-MCP-Dev) - 
 - [LottePitcher/open-source-umbraco-cloud](https://github.com/LottePitcher/open-source-umbraco-cloud) - Example of a public/open-source working repository for an Umbraco Cloud site
 - [Matthew-Wise/umbraco-mcp](https://github.com/Matthew-Wise/umbraco-mcp) - A model context protocol  (MCP) server for Umbraco
 - [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
