@@ -210,7 +210,7 @@
 - [ThioJoe/jpeg2png](https://github.com/ThioJoe/jpeg2png) - Silky smooth JPEG decoding - Forked with a few bug fixes
 - [ByteCrumb/Umbraco.Community.DeliveryApiExtensions](https://github.com/ByteCrumb/Umbraco.Community.DeliveryApiExtensions) - Umbraco Delivery API extensions⚡
 - [AndyBoot/Umbraco.Community.ClientDrawer](https://github.com/AndyBoot/Umbraco.Community.ClientDrawer) - An Umbraco package for providing your clients a small toolbox of useful links and information. If your website is one of many sites based on a shared platform then this package is perfect for you.
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [umbraco/Umbraco.Packages](https://github.com/umbraco/Umbraco.Packages) - The online home of the Umbraco Package team
 - [jaywcjlove/changelog-generator](https://github.com/jaywcjlove/changelog-generator) - A GitHub Action that compares the commit differences between two branches
 - [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
