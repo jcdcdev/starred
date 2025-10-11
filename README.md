@@ -63,6 +63,7 @@
 - [jcdcdev/jcdcdev.Eco.Signs](https://github.com/jcdcdev/jcdcdev.Eco.Signs) - 
 - [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) - 
 - [thomasfn/EcoCivicsImportExportMod](https://github.com/thomasfn/EcoCivicsImportExportMod) - 
+- [rickbutterfield/BlockPreview](https://github.com/rickbutterfield/BlockPreview) - Easy to use rich HTML backoffice previews for the Umbraco Block List and Block Grid editors.
 - [Tawling/MultiPause](https://github.com/Tawling/MultiPause) - A Stardew Valley mod to allow time to pause in multiplayer.
 - [callumbwhyte/msbuild-umbraco-packaging](https://github.com/callumbwhyte/msbuild-umbraco-packaging) - [WIP] A set of MSBuild tasks and targets for effortlessly building Umbraco package zip files with .NET SDK project formats
 - [skybrud/Skybrud.Umbraco.GridData](https://github.com/skybrud/Skybrud.Umbraco.GridData) - Strongly typed model for the grid in Umbraco.
@@ -164,7 +165,6 @@
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
-- [rickbutterfield/BlockPreview](https://github.com/rickbutterfield/BlockPreview) - Easy to use rich HTML backoffice previews for the Umbraco Block List and Block Grid editors.
 
 ## TypeSpec 
 
