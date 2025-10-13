@@ -184,6 +184,7 @@
 
 ## others 
 
+- [umbraco/Umbraco.Cloud.Issues](https://github.com/umbraco/Umbraco.Cloud.Issues) - Public issue tracker for Umbraco Cloud
 - [jemayn/RightClicker](https://github.com/jemayn/RightClicker) - 
 - [skttl/umbraco-mux](https://github.com/skttl/umbraco-mux) - A property editor for Umbraco CMS for syncing uploaded videos with Mux.com
 - [umbraco/Umbraco.Cloud.CICDFlow.Samples](https://github.com/umbraco/Umbraco.Cloud.CICDFlow.Samples) - 
