@@ -117,6 +117,7 @@
 
 ## Others 
 
+- [umbraco/Umbraco.Cloud.Issues](https://github.com/umbraco/Umbraco.Cloud.Issues) - Public issue tracker for Umbraco Cloud
 - [CR6Community/Hardware](https://github.com/CR6Community/Hardware) - Open-source hardware and reverse-engineering
 - [KoenVanduffel/CR-6_Klipper](https://github.com/KoenVanduffel/CR-6_Klipper) - A repository for Klipper firmware details for the Creality CR-6 printers.
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
