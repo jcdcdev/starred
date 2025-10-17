@@ -109,7 +109,6 @@
 ## JavaScript 
 
 - [mattbegent/Umbraco.Community.SkrivLet](https://github.com/mattbegent/Umbraco.Community.SkrivLet) - A clean WYSIWYG property editor for distraction free writing in Umbraco.
-- [mattbegent/umbraco-accessibility-reporter](https://github.com/mattbegent/umbraco-accessibility-reporter) - 
 
 ## Kotlin 
 
@@ -166,6 +165,7 @@
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
+- [mattbegent/umbraco-accessibility-reporter](https://github.com/mattbegent/umbraco-accessibility-reporter) - 
 
 ## TypeSpec 
 
