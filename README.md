@@ -101,6 +101,7 @@
 
 ## Java 
 
+- [audaki/minecraft-cart-engine](https://github.com/audaki/minecraft-cart-engine) - Minecraft Vanilla Carts with Fun! Fast! Glitch-Free! Survival-Balanced. Redstone-Compatible. Works with slopes and curves. Fully Vanilla: No special tracks or carts needed. Only Server-Sided-Mod requi
 - [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty) - Minecraft mod that adds over 50 new biomes to the game.
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 - [ldtteam/minecolonies-dynmap](https://github.com/ldtteam/minecolonies-dynmap) - 
