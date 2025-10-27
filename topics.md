@@ -184,6 +184,8 @@
 
 ## others 
 
+- [Bertogim/bluemap-web-auto-quality](https://github.com/Bertogim/bluemap-web-auto-quality) - A script that modifies automatically the web graphics of bluemap (render distance and resolution at last) to always get a smooth experience.
+- [TechnicJelle/BlueMapSpawnMarker](https://github.com/TechnicJelle/BlueMapSpawnMarker) - BlueMap Native addon that adds a customisable marker at the world spawn
 - [audaki/minecraft-cart-engine](https://github.com/audaki/minecraft-cart-engine) - Minecraft Vanilla Carts with Fun! Fast! Glitch-Free! Survival-Balanced. Redstone-Compatible. Works with slopes and curves. Fully Vanilla: No special tracks or carts needed. Only Server-Sided-Mod requi
 - [umbraco/Umbraco.Cloud.Issues](https://github.com/umbraco/Umbraco.Cloud.Issues) - Public issue tracker for Umbraco Cloud
 - [jemayn/RightClicker](https://github.com/jemayn/RightClicker) - 
