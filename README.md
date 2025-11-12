@@ -148,6 +148,7 @@
 
 ## TypeScript 
 
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using GPT
 - [OwainWilliams/umbPublisher](https://github.com/OwainWilliams/umbPublisher) - An Obsidian Plugin that allows you to push notes to Umbraco 15+ as content nodes
 - [LouieRichardson99/astrolab-ui](https://github.com/LouieRichardson99/astrolab-ui) - View your Astro components in one place, letting you preview them and interactively adjust props and slots in real time
 - [umbraco/Umbraco-CMS-MCP-Dev](https://github.com/umbraco/Umbraco-CMS-MCP-Dev) - 
