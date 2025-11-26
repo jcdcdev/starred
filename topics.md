@@ -22,6 +22,7 @@
 - [git](#git)
 - [github](#github)
 - [golang](#golang)
+- [google](#google)
 - [gradle](#gradle)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -30,6 +31,7 @@
 - [javascript](#javascript)
 - [kotlin](#kotlin)
 - [minecraft](#minecraft)
+- [monitoring](#monitoring)
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [node](#node)
@@ -46,6 +48,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [web-development](#web-development)
+- [webapp](#webapp)
 
 ## angular 
 
@@ -91,6 +94,8 @@
 
 ## docker 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [pedrolamas/docker-klipper-simulavr](https://github.com/pedrolamas/docker-klipper-simulavr) - :package: Docker image for Klipper with Simulavr, Moonraker, and mjpg-streamer
 
 ## dotnet 
@@ -125,7 +130,12 @@
 
 ## golang 
 
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
+
+## google 
+
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 
 ## gradle 
 
@@ -179,6 +189,10 @@
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
 
+## monitoring 
+
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
 ## nestjs 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -199,6 +213,7 @@
 
 ## others 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [ARxyt/ColonyPathingEdition](https://github.com/ARxyt/ColonyPathingEdition) - 
 - [Bertogim/bluemap-web-auto-quality](https://github.com/Bertogim/bluemap-web-auto-quality) - A script that modifies automatically the web graphics of bluemap (render distance and resolution at last) to always get a smooth experience.
@@ -291,6 +306,8 @@
 
 ## self-hosted 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## shell 
@@ -323,6 +340,11 @@
 ## web-development 
 
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## webapp 
+
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 
 
 ## License
