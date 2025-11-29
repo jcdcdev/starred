@@ -30,6 +30,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [kotlin](#kotlin)
+- [laravel](#laravel)
 - [minecraft](#minecraft)
 - [monitoring](#monitoring)
 - [nestjs](#nestjs)
@@ -94,6 +95,7 @@
 
 ## docker 
 
+- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [pedrolamas/docker-klipper-simulavr](https://github.com/pedrolamas/docker-klipper-simulavr) - :package: Docker image for Klipper with Simulavr, Moonraker, and mjpg-streamer
@@ -143,6 +145,7 @@
 
 ## hacktoberfest 
 
+- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [OwainWilliams/umbPublisher](https://github.com/OwainWilliams/umbPublisher) - An Obsidian Plugin that allows you to push notes to Umbraco 15+ as content nodes
 - [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
 - [Shazwazza/Examine](https://github.com/Shazwazza/Examine) - A .NET indexing and search engine powered by Lucene.Net
@@ -183,6 +186,10 @@
 ## kotlin 
 
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
+
+## laravel 
+
+- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 
 ## minecraft 
 
