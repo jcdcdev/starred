@@ -45,6 +45,7 @@
 - [shell](#shell)
 - [sql](#sql)
 - [svelte](#svelte)
+- [tailwindcss](#tailwindcss)
 - [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
@@ -145,6 +146,7 @@
 
 ## hacktoberfest 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [OwainWilliams/umbPublisher](https://github.com/OwainWilliams/umbPublisher) - An Obsidian Plugin that allows you to push notes to Umbraco 15+ as content nodes
 - [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
@@ -221,6 +223,7 @@
 
 ## others 
 
+- [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [ARxyt/ColonyPathingEdition](https://github.com/ARxyt/ColonyPathingEdition) - 
@@ -314,6 +317,7 @@
 
 ## self-hosted 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -331,12 +335,17 @@
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
+## tailwindcss 
+
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+
 ## testing 
 
 - [mattbegent/umbraco-accessibility-reporter](https://github.com/mattbegent/umbraco-accessibility-reporter) - 
 
 ## typescript 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [pyrbin/single-pr-updater](https://github.com/pyrbin/single-pr-updater) - Creates & updates a single pull request by given branch targets & label
