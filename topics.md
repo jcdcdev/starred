@@ -49,6 +49,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
+- [visualization](#visualization)
 - [web-development](#web-development)
 - [webapp](#webapp)
 
@@ -354,6 +355,10 @@
 ## ui 
 
 - [umbraco/Umbraco.UI](https://github.com/umbraco/Umbraco.UI) - Umbraco UI Components
+
+## visualization 
+
+- [wyskoj/midis2jam2](https://github.com/wyskoj/midis2jam2) - 🎶 A remaster of MIDIJam, a 3D MIDI file visualizer.
 
 ## web-development 
 
