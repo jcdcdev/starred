@@ -32,7 +32,6 @@
 - [umbraco/Umbraco.Cms.Search](https://github.com/umbraco/Umbraco.Cms.Search) - Search abstractions and implementations for Umbraco - The Future of Search
 - [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
 - [Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream](https://github.com/Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream) - Upload videos directly to Cloudflare Stream (CFS) within Umbraco CMS
-- [kjac/NoCode.DeliveryApi](https://github.com/kjac/NoCode.DeliveryApi) - No-code tools for the Umbraco Delivery API
 - [Eptagone/Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Small library to integrate Vite into ASP.NET projects
 - [Shazwazza/Examine](https://github.com/Shazwazza/Examine) - A .NET indexing and search engine powered by Lucene.Net
 - [ByteCrumb/Umbraco.Community.DeliveryApiExtensions](https://github.com/ByteCrumb/Umbraco.Community.DeliveryApiExtensions) - Umbraco Delivery API extensions⚡
@@ -172,6 +171,7 @@
 - [nielslyngsoe/cg25-umbrago-next-level-backoffice](https://github.com/nielslyngsoe/cg25-umbrago-next-level-backoffice) - The Umbrago extensions, for the CG25 talk called: Next-Level Backoffice
 - [kjac/Kjac.HeadlessPreview](https://github.com/kjac/Kjac.HeadlessPreview) - Back-Office Preview package for Umbraco
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+- [kjac/NoCode.DeliveryApi](https://github.com/kjac/NoCode.DeliveryApi) - No-code tools for the Umbraco Delivery API
 - [stevetemple/Umbraco.Community.ApplicationInsightsLogging](https://github.com/stevetemple/Umbraco.Community.ApplicationInsightsLogging) - 
 - [Zeegaan/UnusedMedia](https://github.com/Zeegaan/UnusedMedia) - This is a package, that will show any unused media in the Umbraco Media Section
 - [mattou07/actions-uSync-cli](https://github.com/mattou07/actions-uSync-cli) - A Github action wrapper for https://github.com/Jumoo/uSync.CommandLine
