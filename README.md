@@ -88,12 +88,12 @@
 ## Go 
 
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) - Caddy module: dns.providers.cloudflare
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 
 ## HTML 
 
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [jemayn/RightClicker](https://github.com/jemayn/RightClicker) - 
 - [kjac/NoCode.HeadlessMode](https://github.com/kjac/NoCode.HeadlessMode) - No-code headless mode for Umbraco
 - [KevinJump/EarlyAdopters.Umbraco.Templates](https://github.com/KevinJump/EarlyAdopters.Umbraco.Templates) - Package templates for Umbraco 14 (pre-release)
