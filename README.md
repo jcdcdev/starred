@@ -73,6 +73,7 @@
 
 ## CSS 
 
+- [ClerksWell-Ltd/BulkUpload](https://github.com/ClerksWell-Ltd/BulkUpload) - Bulk upload from a CSV
 - [Rockerby/Umbraco.Community.RollbackPreviewer](https://github.com/Rockerby/Umbraco.Community.RollbackPreviewer) - 
 - [AndyBoot/Umbraco.Community.ClientDrawer](https://github.com/AndyBoot/Umbraco.Community.ClientDrawer) - An Umbraco package for providing your clients a small toolbox of useful links and information. If your website is one of many sites based on a shared platform then this package is perfect for you.
 - [prjseal/Umbraco-13-Series](https://github.com/prjseal/Umbraco-13-Series) - 
