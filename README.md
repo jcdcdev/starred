@@ -18,6 +18,7 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [TypeSpec](#typespec)
@@ -152,6 +153,10 @@
 - [RimSort/RimSort](https://github.com/RimSort/RimSort) - RimSort is an open source mod manager for the video game RimWorld. There is support for Linux, Mac, and Windows, built from the ground up to be a reliable, community-managed alternative to RimPy Mod M
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
 - [RoggerFabri/mopidy-icesnap](https://github.com/RoggerFabri/mopidy-icesnap) - Dockerized audio streaming with Mopidy + Icecast or Snapcast for internet radio or synchronised multi-room playback.
+
+## Ruby 
+
+- [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files.
 
 ## Shell 
 
