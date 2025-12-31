@@ -17,6 +17,7 @@
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [flutter](#flutter)
 - [framework](#framework)
 - [git](#git)
@@ -31,6 +32,7 @@
 - [javascript](#javascript)
 - [kotlin](#kotlin)
 - [laravel](#laravel)
+- [linux](#linux)
 - [minecraft](#minecraft)
 - [monitoring](#monitoring)
 - [nestjs](#nestjs)
@@ -49,6 +51,7 @@
 - [tailwindcss](#tailwindcss)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [ui](#ui)
 - [visualization](#visualization)
 - [web-development](#web-development)
@@ -115,6 +118,10 @@
 ## emoji 
 
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
+
+## emulator 
+
+- [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 
 ## flutter 
 
@@ -195,6 +202,10 @@
 ## laravel 
 
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
+
+## linux 
+
+- [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 
 ## minecraft 
 
@@ -360,6 +371,10 @@
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [pyrbin/single-pr-updater](https://github.com/pyrbin/single-pr-updater) - Creates & updates a single pull request by given branch targets & label
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+
+## ubuntu 
+
+- [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 
 ## ui 
 
