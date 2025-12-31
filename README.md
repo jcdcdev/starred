@@ -160,6 +160,7 @@
 
 ## Shell 
 
+- [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 
 ## TypeScript 
