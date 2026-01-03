@@ -240,7 +240,7 @@
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [ClerksWell-Ltd/BulkUpload](https://github.com/ClerksWell-Ltd/BulkUpload) - Bulk upload from a CSV
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [ARxyt/ColonyPathingEdition](https://github.com/ARxyt/ColonyPathingEdition) - 
 - [Bertogim/bluemap-web-auto-quality](https://github.com/Bertogim/bluemap-web-auto-quality) - A script that modifies automatically the web graphics of bluemap (render distance and resolution at last) to always get a smooth experience.
