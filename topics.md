@@ -33,6 +33,7 @@
 - [kotlin](#kotlin)
 - [laravel](#laravel)
 - [linux](#linux)
+- [mcp](#mcp)
 - [minecraft](#minecraft)
 - [monitoring](#monitoring)
 - [nestjs](#nestjs)
@@ -186,6 +187,7 @@
 ## java 
 
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
+- [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) - Basically Archimedes Ships, but with VS2 as the backend
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
 
@@ -197,6 +199,7 @@
 
 ## kotlin 
 
+- [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) - Basically Archimedes Ships, but with VS2 as the backend
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 
 ## laravel 
@@ -207,8 +210,13 @@
 
 - [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 
+## mcp 
+
+- [Matthew-Wise/umbraco-mcp](https://github.com/Matthew-Wise/umbraco-mcp) - A model context protocol  (MCP) server for Umbraco
+
 ## minecraft 
 
+- [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) - Basically Archimedes Ships, but with VS2 as the backend
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
 
@@ -256,7 +264,6 @@
 - [RimSort/RimSort](https://github.com/RimSort/RimSort) - RimSort is an open source mod manager for the video game RimWorld. There is support for Linux, Mac, and Windows, built from the ground up to be a reliable, community-managed alternative to RimPy Mod M
 - [LottePitcher/open-source-umbraco-cloud](https://github.com/LottePitcher/open-source-umbraco-cloud) - Example of a public/open-source working repository for an Umbraco Cloud site
 - [Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream](https://github.com/Rippleffect-Group/ReadingRoom.Umbraco.CloudflareStream) - Upload videos directly to Cloudflare Stream (CFS) within Umbraco CMS
-- [Matthew-Wise/umbraco-mcp](https://github.com/Matthew-Wise/umbraco-mcp) - A model context protocol  (MCP) server for Umbraco
 - [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
 - [KevinJump/Umbraco-Tree-Example](https://github.com/KevinJump/Umbraco-Tree-Example) - Example as to how to render a tree in the new umbraco backoffice.
 - [nielslyngsoe/cg25-umbrago-next-level-backoffice](https://github.com/nielslyngsoe/cg25-umbrago-next-level-backoffice) - The Umbrago extensions, for the CG25 talk called: Next-Level Backoffice
@@ -294,7 +301,6 @@
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [Jumoo/uSync.Hangfire](https://github.com/Jumoo/uSync.Hangfire) - Hangfire helpers for uSync.Complete
 - [skybrud/Skybrud.Essentials.Umbraco](https://github.com/skybrud/Skybrud.Essentials.Umbraco) - Skybrud.Essentials addon for working with Umbraco.
-- [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) - Basically Archimedes Ships, but with VS2 as the backend
 - [limbo-works/Limbo.Umbraco.Fetch](https://github.com/limbo-works/Limbo.Umbraco.Fetch) - Umbraco package for periodically downloading files to disk.
 - [ldtteam/minecolonies-dynmap](https://github.com/ldtteam/minecolonies-dynmap) - 
 - [jcdcdev/jcdcdev.Eco.Core](https://github.com/jcdcdev/jcdcdev.Eco.Core) - 
@@ -320,6 +326,7 @@
 
 ## physics 
 
+- [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) - Basically Archimedes Ships, but with VS2 as the backend
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 
 ## python 
