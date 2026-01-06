@@ -89,6 +89,7 @@
 
 ## Go 
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) - Caddy module: dns.providers.cloudflare
