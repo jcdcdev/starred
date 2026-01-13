@@ -90,6 +90,7 @@
 
 ## Go 
 
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
@@ -98,6 +99,7 @@
 
 ## HTML 
 
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [jemayn/RightClicker](https://github.com/jemayn/RightClicker) - 
 - [kjac/NoCode.HeadlessMode](https://github.com/kjac/NoCode.HeadlessMode) - No-code headless mode for Umbraco
 - [KevinJump/EarlyAdopters.Umbraco.Templates](https://github.com/KevinJump/EarlyAdopters.Umbraco.Templates) - Package templates for Umbraco 14 (pre-release)
