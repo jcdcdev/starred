@@ -29,6 +29,7 @@
 
 ## C# # 
 
+- [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a small tool that organises messy folders automatically. It sorts files into simple categories such as Documents, Images, Videos, Audio, Archives, Code, and Other. Nothing is deleted, a
 - [skttl/umbraco-mux](https://github.com/skttl/umbraco-mux) - A property editor for Umbraco CMS for syncing uploaded videos with Mux.com
 - [umbraco/Umbraco.Cms.Search](https://github.com/umbraco/Umbraco.Cms.Search) - Search abstractions and implementations for Umbraco - The Future of Search
 - [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
