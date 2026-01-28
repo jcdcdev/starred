@@ -125,6 +125,7 @@
 
 ## Kotlin 
 
+- [KieronQuinn/uTag](https://github.com/KieronQuinn/uTag) - Use Samsung Galaxy SmartTags on any Android device
 - [wyskoj/midis2jam2](https://github.com/wyskoj/midis2jam2) - 🎶 A remaster of MIDIJam, a 3D MIDI file visualizer.
 - [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) - Basically Archimedes Ships, but with VS2 as the backend
 
