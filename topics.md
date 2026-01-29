@@ -6,9 +6,13 @@
 ## Contents
 
 - [angular](#angular)
+- [api](#api)
 - [aspnet](#aspnet)
 - [azure](#azure)
 - [bash](#bash)
+- [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code-review](#code-review)
 - [csharp](#csharp)
@@ -19,6 +23,7 @@
 - [dotnet](#dotnet)
 - [emoji](#emoji)
 - [emulator](#emulator)
+- [firefox](#firefox)
 - [flutter](#flutter)
 - [framework](#framework)
 - [git](#git)
@@ -45,6 +50,7 @@
 - [nodejs](#nodejs)
 - [others](#others)
 - [physics](#physics)
+- [privacy](#privacy)
 - [python](#python)
 - [rails](#rails)
 - [react](#react)
@@ -67,6 +73,10 @@
 
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 
+## api 
+
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+
 ## aspnet 
 
 - [Shazwazza/Examine](https://github.com/Shazwazza/Examine) - A .NET indexing and search engine powered by Lucene.Net
@@ -78,6 +88,18 @@
 ## bash 
 
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+
+## chrome 
+
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
+## chrome-extension 
+
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
+## cloud 
+
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 
 ## cms 
 
@@ -111,6 +133,7 @@
 
 ## docker 
 
+- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -136,6 +159,10 @@
 
 - [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 
+## firefox 
+
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
 ## flutter 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -160,6 +187,7 @@
 
 ## golang 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
@@ -174,6 +202,7 @@
 
 ## hacktoberfest 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
@@ -212,6 +241,7 @@
 
 ## javascript 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
@@ -269,6 +299,7 @@
 
 ## others 
 
+- [Tiagura/gotigram](https://github.com/Tiagura/gotigram) - Gotigram is a bot that forwards selected messages from yout Gotify server to your Telegram DMs.
 - [KieronQuinn/uTag](https://github.com/KieronQuinn/uTag) - Use Samsung Galaxy SmartTags on any Android device
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a small tool that organises messy folders automatically. It sorts files into simple categories such as Documents, Images, Videos, Audio, Archives, Code, and Other. Nothing is deleted, a
@@ -357,8 +388,13 @@
 - [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) - Basically Archimedes Ships, but with VS2 as the backend
 - [ValkyrienSkies/Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 
+## privacy 
+
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+
 ## python 
 
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 
 ## rails 
@@ -367,6 +403,7 @@
 
 ## react 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 
 ## security 
@@ -376,6 +413,7 @@
 
 ## self-hosted 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
@@ -435,6 +473,8 @@
 
 ## youtube 
 
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
 
