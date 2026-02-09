@@ -87,6 +87,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-dolphin](https://github.com/linuxserver/docker-dolphin) - Web accessible Dolphin Emulator running on top of Debian
 - [pedrolamas/docker-klipper-simulavr](https://github.com/pedrolamas/docker-klipper-simulavr) - :package: Docker image for Klipper with Simulavr, Moonraker, and mjpg-streamer
 
 ## Go 
