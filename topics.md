@@ -202,6 +202,7 @@
 
 ## hacktoberfest 
 
+- [H5YR/High5YouRock](https://github.com/H5YR/High5YouRock) - H5YR website build with Umbraco 10
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files.
