@@ -49,6 +49,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [others](#others)
+- [p2p](#p2p)
 - [physics](#physics)
 - [privacy](#privacy)
 - [python](#python)
@@ -182,6 +183,7 @@
 
 ## go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
@@ -384,6 +386,10 @@
 - [unknownFalleN/xiaomi-dns-blocklist](https://github.com/unknownFalleN/xiaomi-dns-blocklist) - PiHole DNS Blocklist Xiaomi Domains
 - [DanDiplo/UmbracoTraceLogViewer](https://github.com/DanDiplo/UmbracoTraceLogViewer) - An Umbraco 7.x extension for viewing Umbraco trace log files within the Developer section of Umbraco
 - [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
+
+## p2p 
+
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
 ## physics 
 
