@@ -71,7 +71,6 @@
 - [skybrud/Skybrud.Umbraco.GridData](https://github.com/skybrud/Skybrud.Umbraco.GridData) - Strongly typed model for the grid in Umbraco.
 - [skybrud/Skybrud.Umbraco.GridData.LeBlender](https://github.com/skybrud/Skybrud.Umbraco.GridData.LeBlender) - LeBlender add-on for Skybrud.Umbraco.GridData.
 - [DanDiplo/UmbracoTraceLogViewer](https://github.com/DanDiplo/UmbracoTraceLogViewer) - An Umbraco 7.x extension for viewing Umbraco trace log files within the Developer section of Umbraco
-- [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 - [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
 
 ## CSS 
@@ -209,6 +208,7 @@
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
 - [mattbegent/umbraco-accessibility-reporter](https://github.com/mattbegent/umbraco-accessibility-reporter) - 
+- [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 
 ## TypeSpec 
 
