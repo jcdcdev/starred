@@ -376,7 +376,7 @@
 - [jcdcdev/jcdcdev.Github.UmbracoSimpleDeploy](https://github.com/jcdcdev/jcdcdev.Github.UmbracoSimpleDeploy) - 
 - [jcdcdev/jcdcdev.Umbraco.Core](https://github.com/jcdcdev/jcdcdev.Umbraco.Core) - A library of essential Umbraco CMS extensions for Umbraco packages and websites 🔨
 - [jcdcdev/Umbraco.Community.BackOfficeOrganiser](https://github.com/jcdcdev/Umbraco.Community.BackOfficeOrganiser) - Keep your Umbraco CMS backoffice organised! 🧹
-- [thepensionsregulator/govuk-frontend-aspnetcore-extensions](https://github.com/thepensionsregulator/govuk-frontend-aspnetcore-extensions) - Adds client-side validation, additional components and editing in Umbraco to https://github.com/gunndabad/govuk-frontend-aspnetcore
+- [thepensionsregulator/govuk-frontend-aspnetcore-extensions](https://github.com/thepensionsregulator/govuk-frontend-aspnetcore-extensions) - Adds client-side validation, additional components and editing in Umbraco to https://github.com/x-govuk/govuk-frontend-aspnetcore
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
 - [jcdcdev/jcdcdev.Eco.Signs](https://github.com/jcdcdev/jcdcdev.Eco.Signs) - 
 - [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) - 
