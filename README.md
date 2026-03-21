@@ -57,7 +57,6 @@
 - [jcdcdev/jcdcdev.Eco.ShelfLife](https://github.com/jcdcdev/jcdcdev.Eco.ShelfLife) - 
 - [huwred/RTEStyleFormatter](https://github.com/huwred/RTEStyleFormatter) - 
 - [jcdcdev/Umbraco.Community.SimpleContentApps](https://github.com/jcdcdev/Umbraco.Community.SimpleContentApps) - Simplifies C# based Umbraco Content Apps 🌟
-- [jcdcdev/Umbraco.Community.SimpleDashboards](https://github.com/jcdcdev/Umbraco.Community.SimpleDashboards) - Simplifies C# based Umbraco CMS dashboards ✨
 - [jcdcdev/jcdcdev.Umbraco.Core](https://github.com/jcdcdev/jcdcdev.Umbraco.Core) - A library of essential Umbraco CMS extensions for Umbraco packages and websites 🔨
 - [jcdcdev/Umbraco.Community.BackOfficeOrganiser](https://github.com/jcdcdev/Umbraco.Community.BackOfficeOrganiser) - Keep your Umbraco CMS backoffice organised! 🧹
 - [thepensionsregulator/govuk-frontend-aspnetcore-extensions](https://github.com/thepensionsregulator/govuk-frontend-aspnetcore-extensions) - Adds client-side validation, additional components and editing in Umbraco to https://github.com/x-govuk/govuk-frontend-aspnetcore
@@ -207,6 +206,7 @@
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
+- [jcdcdev/Umbraco.Community.SimpleDashboards](https://github.com/jcdcdev/Umbraco.Community.SimpleDashboards) - Simplifies C# based Umbraco CMS dashboards ✨
 - [mattbegent/umbraco-accessibility-reporter](https://github.com/mattbegent/umbraco-accessibility-reporter) - 
 - [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 
