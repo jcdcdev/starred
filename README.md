@@ -29,6 +29,8 @@
 
 ## C# # 
 
+- [jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor) - Get more from the Umbraco Markdown editor 📄
+- [jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor) - Get more from the Umbraco Dropdown editor. A custom dropdown property editor for Umbraco that supports dynamic data sources 📃
 - [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a small tool that organises messy folders automatically. It sorts files into simple categories such as Documents, Images, Videos, Audio, Archives, Code, and Other. Nothing is deleted, a
 - [skttl/umbraco-mux](https://github.com/skttl/umbraco-mux) - A property editor for Umbraco CMS for syncing uploaded videos with Mux.com
 - [umbraco/Umbraco.Cms.Search](https://github.com/umbraco/Umbraco.Cms.Search) - Search abstractions and implementations for Umbraco - The Future of Search
@@ -177,6 +179,7 @@
 
 ## TypeScript 
 
+- [jcdcdev/jcdcdev.Umbraco.GroupsToTabs](https://github.com/jcdcdev/jcdcdev.Umbraco.GroupsToTabs) - Convert content type groups into tabs in the Umbraco Backoffice.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
