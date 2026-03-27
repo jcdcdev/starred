@@ -302,6 +302,9 @@
 
 ## others 
 
+- [jcdcdev/jcdcdev.Umbraco.GroupsToTabs](https://github.com/jcdcdev/jcdcdev.Umbraco.GroupsToTabs) - Convert content type groups into tabs in the Umbraco Backoffice.
+- [jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor) - Get more from the Umbraco Markdown editor 📄
+- [jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor) - Get more from the Umbraco Dropdown editor. A custom dropdown property editor for Umbraco that supports dynamic data sources 📃
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [linuxserver/docker-dolphin](https://github.com/linuxserver/docker-dolphin) - Web accessible Dolphin Emulator running on top of Debian
 - [Tiagura/gotigram](https://github.com/Tiagura/gotigram) - Gotigram is a bot that forwards selected messages from yout Gotify server to your Telegram DMs.
