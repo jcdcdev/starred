@@ -12,6 +12,7 @@
 - [bash](#bash)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cloud](#cloud)
 - [cms](#cms)
 - [code-review](#code-review)
@@ -97,6 +98,11 @@
 ## chrome-extension 
 
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
+## claude-code 
+
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 
 ## cloud 
 
@@ -305,11 +311,9 @@
 - [jcdcdev/jcdcdev.Umbraco.GroupsToTabs](https://github.com/jcdcdev/jcdcdev.Umbraco.GroupsToTabs) - Convert content type groups into tabs in the Umbraco Backoffice.
 - [jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor) - Get more from the Umbraco Markdown editor 📄
 - [jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor) - Get more from the Umbraco Dropdown editor. A custom dropdown property editor for Umbraco that supports dynamic data sources 📃
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [linuxserver/docker-dolphin](https://github.com/linuxserver/docker-dolphin) - Web accessible Dolphin Emulator running on top of Debian
 - [Tiagura/gotigram](https://github.com/Tiagura/gotigram) - Gotigram is a bot that forwards selected messages from yout Gotify server to your Telegram DMs.
 - [KieronQuinn/uTag](https://github.com/KieronQuinn/uTag) - Use Samsung Galaxy SmartTags on any Android device
-- [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a small tool that organises messy folders automatically. It sorts files into simple categories such as Documents, Images, Videos, Audio, Archives, Code, and Other. Nothing is deleted, a
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
