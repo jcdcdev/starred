@@ -308,6 +308,8 @@
 
 ## others 
 
+- [idseefeld/PostgreSqlForUmbraco](https://github.com/idseefeld/PostgreSqlForUmbraco) - Documentation for the PostgreSQL Provider Package for Umbraco CMS
+- [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas.
 - [jcdcdev/jcdcdev.Umbraco.GroupsToTabs](https://github.com/jcdcdev/jcdcdev.Umbraco.GroupsToTabs) - Convert content type groups into tabs in the Umbraco Backoffice.
 - [jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor) - Get more from the Umbraco Markdown editor 📄
 - [jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor) - Get more from the Umbraco Dropdown editor. A custom dropdown property editor for Umbraco that supports dynamic data sources 📃
