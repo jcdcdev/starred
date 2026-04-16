@@ -175,6 +175,7 @@
 
 ## Shell 
 
+- [nickelc/upload-to-modio](https://github.com/nickelc/upload-to-modio) - 📦🕹️ GitHub Action for uploading mod files to https://mod.io
 - [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 
