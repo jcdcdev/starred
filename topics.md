@@ -318,7 +318,7 @@
 - [linuxserver/docker-dolphin](https://github.com/linuxserver/docker-dolphin) - Web accessible Dolphin Emulator running on top of Debian
 - [Tiagura/gotigram](https://github.com/Tiagura/gotigram) - Gotigram is a bot that forwards selected messages from yout Gotify server to your Telegram DMs.
 - [KieronQuinn/uTag](https://github.com/KieronQuinn/uTag) - Use Samsung Galaxy SmartTags on any Android device
-- [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a small tool that organises messy folders automatically. It sorts files into simple categories such as Documents, Images, Videos, Audio, Archives, Code, and Other. Nothing is deleted, a
+- [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a Windows file automation app that safely organizes folders using rule-based profiles, previews, undo history, Recycle Bin deletes, snapshots, watched folders, and starter packs.
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [ClerksWell-Ltd/BulkUpload](https://github.com/ClerksWell-Ltd/BulkUpload) - Bulk upload from a CSV
@@ -328,7 +328,7 @@
 - [ARxyt/ColonyPathingEdition](https://github.com/ARxyt/ColonyPathingEdition) - 
 - [Bertogim/bluemap-web-auto-quality](https://github.com/Bertogim/bluemap-web-auto-quality) - A script that modifies automatically the web graphics of bluemap (render distance and resolution at last) to always get a smooth experience.
 - [TechnicJelle/BlueMapSpawnMarker](https://github.com/TechnicJelle/BlueMapSpawnMarker) - BlueMap Native addon that adds a customisable marker at the world spawn
-- [audaki/minecraft-cart-engine](https://github.com/audaki/minecraft-cart-engine) - Minecraft Vanilla Carts with Fun! Fast! Glitch-Free! Survival-Balanced. Redstone-Compatible. Works with slopes and curves. Fully Vanilla: No special tracks or carts needed. Only Server-Sided-Mod requi
+- [audaki/minecraft-cart-engine](https://github.com/audaki/minecraft-cart-engine) - Minecraft Vanilla Carts with Fun! Fast! Glitch-Free! Survival-Balanced. Redstone-Compatible. Works with slopes and curves. Fully Vanilla: No special tracks or carts needed
 - [umbraco/Umbraco.Cloud.Issues](https://github.com/umbraco/Umbraco.Cloud.Issues) - Public issue tracker for Umbraco Cloud
 - [jemayn/RightClicker](https://github.com/jemayn/RightClicker) - 
 - [skttl/umbraco-mux](https://github.com/skttl/umbraco-mux) - A property editor for Umbraco CMS for syncing uploaded videos with Mux.com
