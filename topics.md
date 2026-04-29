@@ -10,6 +10,7 @@
 - [aspnet](#aspnet)
 - [azure](#azure)
 - [bash](#bash)
+- [c-sharp](#c-sharp)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [claude-code](#claude-code)
@@ -90,6 +91,12 @@
 ## bash 
 
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+
+## c-sharp 
+
+- [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
+- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
+- [DanDiplo/UmbracoTraceLogViewer](https://github.com/DanDiplo/UmbracoTraceLogViewer) - An Umbraco 7.x extension for viewing Umbraco trace log files within the Developer section of Umbraco
 
 ## chrome 
 
@@ -396,7 +403,6 @@
 - [RoggerFabri/mopidy-icesnap](https://github.com/RoggerFabri/mopidy-icesnap) - Dockerized audio streaming with Mopidy + Icecast or Snapcast for internet radio or synchronised multi-room playback.
 - [Tawling/MultiPause](https://github.com/Tawling/MultiPause) - A Stardew Valley mod to allow time to pause in multiplayer.
 - [unknownFalleN/xiaomi-dns-blocklist](https://github.com/unknownFalleN/xiaomi-dns-blocklist) - PiHole DNS Blocklist Xiaomi Domains
-- [DanDiplo/UmbracoTraceLogViewer](https://github.com/DanDiplo/UmbracoTraceLogViewer) - An Umbraco 7.x extension for viewing Umbraco trace log files within the Developer section of Umbraco
 - [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 
 ## p2p 
