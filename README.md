@@ -32,7 +32,7 @@
 - [idseefeld/PostgreSqlForUmbraco](https://github.com/idseefeld/PostgreSqlForUmbraco) - Documentation for the PostgreSQL Provider Package for Umbraco CMS
 - [jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor) - Get more from the Umbraco Markdown editor 📄
 - [jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor) - Get more from the Umbraco Dropdown editor. A custom dropdown property editor for Umbraco that supports dynamic data sources 📃
-- [H5YR/High5YouRock](https://github.com/H5YR/High5YouRock) - H5YR website build with Umbraco 10
+- [H5YR/High5YouRock](https://github.com/H5YR/High5YouRock) - H5YR website build with Umbraco 17
 - [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a Windows file automation app that safely organizes folders using rule-based profiles, previews, undo history, Recycle Bin deletes, snapshots, watched folders, and starter packs.
 - [skttl/umbraco-mux](https://github.com/skttl/umbraco-mux) - A property editor for Umbraco CMS for syncing uploaded videos with Mux.com
 - [umbraco/Umbraco.Cms.Search](https://github.com/umbraco/Umbraco.Cms.Search) - Search abstractions and implementations for Umbraco - The Future of Search
