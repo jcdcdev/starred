@@ -53,7 +53,6 @@
 - [skybrud/Skybrud.TextAnalysis](https://github.com/skybrud/Skybrud.TextAnalysis) - Hunspell text analysis package for .NET.
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [skybrud/Skybrud.Essentials.Umbraco](https://github.com/skybrud/Skybrud.Essentials.Umbraco) - Skybrud.Essentials addon for working with Umbraco.
-- [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [limbo-works/Limbo.Umbraco.Fetch](https://github.com/limbo-works/Limbo.Umbraco.Fetch) - Umbraco package for periodically downloading files to disk.
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [jcdcdev/jcdcdev.Eco.Core](https://github.com/jcdcdev/jcdcdev.Eco.Core) - 
@@ -85,6 +84,7 @@
 - [AspireSystemsUK/Method4.UmbracoMigrator.Target](https://github.com/AspireSystemsUK/Method4.UmbracoMigrator.Target) - The Method4 Umbraco Migrator allows migrating content and media from an Umbraco v7/v8 site to an Umbraco 10+ site.
 - [drummerboy46/Umbraco-Tag-Manager](https://github.com/drummerboy46/Umbraco-Tag-Manager) - Tag Utilities for Umbraco
 - [Jumoo/uSync.Hangfire](https://github.com/Jumoo/uSync.Hangfire) - Hangfire helpers for uSync.Complete
+- [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ## Dockerfile 
