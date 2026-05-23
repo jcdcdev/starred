@@ -181,6 +181,7 @@
 
 ## TypeScript 
 
+- [warrenbuckley/Umbraco.Community.ManifestPeek](https://github.com/warrenbuckley/Umbraco.Community.ManifestPeek) - A simple Umbraco V14+ extension to help view extension types registered manifests to help with DX
 - [trentrand/astro-markdown-for-agents](https://github.com/trentrand/astro-markdown-for-agents) - Astro integration that generates markdown variants of your pages for AI agents
 - [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas.
 - [jcdcdev/jcdcdev.Umbraco.GroupsToTabs](https://github.com/jcdcdev/jcdcdev.Umbraco.GroupsToTabs) - Convert content type groups into tabs in the Umbraco Backoffice.
