@@ -315,6 +315,7 @@
 
 ## others 
 
+- [warrenbuckley/Umbraco.Community.ManifestPeek](https://github.com/warrenbuckley/Umbraco.Community.ManifestPeek) - A simple Umbraco V14+ extension to help view extension types registered manifests to help with DX
 - [trentrand/astro-markdown-for-agents](https://github.com/trentrand/astro-markdown-for-agents) - Astro integration that generates markdown variants of your pages for AI agents
 - [nickelc/upload-to-modio](https://github.com/nickelc/upload-to-modio) - 📦🕹️ GitHub Action for uploading mod files to https://mod.io
 - [idseefeld/PostgreSqlForUmbraco](https://github.com/idseefeld/PostgreSqlForUmbraco) - Documentation for the PostgreSQL Provider Package for Umbraco CMS
