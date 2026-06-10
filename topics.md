@@ -315,6 +315,8 @@
 
 ## others 
 
+- [Lantzify/easy-entity-flags](https://github.com/Lantzify/easy-entity-flags) - Easy Entity Flags is an Umbraco package that lets you display configurable icon flags on content tree items, collection items, and document items using only appsettings.json
+- [umbraco/Umbraco.AI](https://github.com/umbraco/Umbraco.AI) - AI integration layer for Umbraco CMS, built on Microsoft.Extensions.AI.
 - [warrenbuckley/Umbraco.Community.ManifestPeek](https://github.com/warrenbuckley/Umbraco.Community.ManifestPeek) - A simple Umbraco V14+ extension to help view extension types registered manifests to help with DX
 - [trentrand/astro-markdown-for-agents](https://github.com/trentrand/astro-markdown-for-agents) - Astro integration that generates markdown variants of your pages for AI agents
 - [nickelc/upload-to-modio](https://github.com/nickelc/upload-to-modio) - 📦🕹️ GitHub Action for uploading mod files to https://mod.io
