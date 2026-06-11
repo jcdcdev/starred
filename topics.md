@@ -315,6 +315,7 @@
 
 ## others 
 
+- [justin-nevitech/Umbraco.Community.AI.LogAnalyser](https://github.com/justin-nevitech/Umbraco.Community.AI.LogAnalyser) - An Umbraco package that adds AI-powered log analysis to the backoffice log viewer. Each log entry gets an "Analyse with AI" button that sends the log message, level, timestamp, exception and propertie
 - [Lantzify/easy-entity-flags](https://github.com/Lantzify/easy-entity-flags) - Easy Entity Flags is an Umbraco package that lets you display configurable icon flags on content tree items, collection items, and document items using only appsettings.json
 - [umbraco/Umbraco.AI](https://github.com/umbraco/Umbraco.AI) - AI integration layer for Umbraco CMS, built on Microsoft.Extensions.AI.
 - [warrenbuckley/Umbraco.Community.ManifestPeek](https://github.com/warrenbuckley/Umbraco.Community.ManifestPeek) - A simple Umbraco V14+ extension to help view extension types registered manifests to help with DX
