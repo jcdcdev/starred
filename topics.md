@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai-agents](#ai-agents)
 - [angular](#angular)
 - [api](#api)
 - [aspnet](#aspnet)
@@ -20,6 +21,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [django](#django)
 - [docker](#docker)
 - [dotnet](#dotnet)
@@ -42,6 +44,7 @@
 - [kotlin](#kotlin)
 - [laravel](#laravel)
 - [linux](#linux)
+- [llm](#llm)
 - [markdown](#markdown)
 - [mcp](#mcp)
 - [minecraft](#minecraft)
@@ -54,6 +57,7 @@
 - [p2p](#p2p)
 - [physics](#physics)
 - [privacy](#privacy)
+- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [rails](#rails)
 - [react](#react)
@@ -71,6 +75,10 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [youtube](#youtube)
+
+## ai-agents 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 ## angular 
 
@@ -108,6 +116,7 @@
 
 ## claude-code 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 
@@ -140,6 +149,10 @@
 ## design 
 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+
+## developer-tools 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 ## django 
 
@@ -274,6 +287,10 @@
 ## linux 
 
 - [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
+
+## llm 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 ## markdown 
 
@@ -422,6 +439,10 @@
 ## privacy 
 
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+
+## prompt-engineering 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 ## python 
 
