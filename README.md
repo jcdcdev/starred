@@ -145,6 +145,7 @@
 
 ## Others 
 
+- [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [umbraco/Umbraco.Cloud.Issues](https://github.com/umbraco/Umbraco.Cloud.Issues) - Public issue tracker for Umbraco Cloud
 - [CR6Community/Hardware](https://github.com/CR6Community/Hardware) - Open-source hardware and reverse-engineering
