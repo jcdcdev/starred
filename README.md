@@ -29,6 +29,7 @@
 
 ## C# # 
 
+- [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
 - [umbraco/Umbraco.Automate](https://github.com/umbraco/Umbraco.Automate) - Automation platform for Umbraco
 - [umbraco/Umbraco.AI](https://github.com/umbraco/Umbraco.AI) - AI integration layer for Umbraco CMS, built on Microsoft.Extensions.AI.
 - [idseefeld/PostgreSqlForUmbraco](https://github.com/idseefeld/PostgreSqlForUmbraco) - Documentation for the PostgreSQL Provider Package for Umbraco CMS
@@ -145,7 +146,6 @@
 
 ## Others 
 
-- [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [umbraco/Umbraco.Cloud.Issues](https://github.com/umbraco/Umbraco.Cloud.Issues) - Public issue tracker for Umbraco Cloud
 - [CR6Community/Hardware](https://github.com/CR6Community/Hardware) - Open-source hardware and reverse-engineering
@@ -218,7 +218,7 @@
 - [jaywcjlove/changelog-generator](https://github.com/jaywcjlove/changelog-generator) - A GitHub Action that compares the commit differences between two branches
 - [pyrbin/single-pr-updater](https://github.com/pyrbin/single-pr-updater) - Creates & updates a single pull request by given branch targets & label
 - [leekelleher/umbraco-extension-editor](https://github.com/leekelleher/umbraco-extension-editor) - A workspace editor for creating Umbraco web component extensions
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [warrenbuckley/Tada](https://github.com/warrenbuckley/Tada) - An Umbraco V14 Package that shows how to override the Save & Publish button with some sillyness
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [jcdcdev/jcdcdev.Umbraco.RelationsManager](https://github.com/jcdcdev/jcdcdev.Umbraco.RelationsManager) - Create and manage relations for any Umbraco Relation Type directly from the backoffice 🔗
