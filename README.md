@@ -29,6 +29,7 @@
 
 ## C# # 
 
+- [OwainWilliams/OC.Automate.LinkedIn](https://github.com/OwainWilliams/OC.Automate.LinkedIn) - 
 - [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
 - [umbraco/Umbraco.Automate](https://github.com/umbraco/Umbraco.Automate) - Automation platform for Umbraco
 - [umbraco/Umbraco.AI](https://github.com/umbraco/Umbraco.AI) - AI integration layer for Umbraco CMS, built on Microsoft.Extensions.AI.
