@@ -316,6 +316,7 @@
 
 ## others 
 
+- [OwainWilliams/OC.Automate.LinkedIn](https://github.com/OwainWilliams/OC.Automate.LinkedIn) - 
 - [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
 - [umbraco/Umbraco.Automate](https://github.com/umbraco/Umbraco.Automate) - Automation platform for Umbraco
 - [justin-nevitech/Umbraco.Community.AI.LogAnalyser](https://github.com/justin-nevitech/Umbraco.Community.AI.LogAnalyser) - An Umbraco package that adds AI-powered log analysis to the backoffice log viewer. Each log entry gets an "Analyse with AI" button that sends the log message, level, timestamp, exception and propertie
