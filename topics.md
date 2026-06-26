@@ -316,6 +316,7 @@
 
 ## others 
 
+- [nathanwoulfe/NestingContently](https://github.com/nathanwoulfe/NestingContently) - A property editor for disabling Nested Content items and Block elements in Umbraco
 - [OwainWilliams/OC.Automate.LinkedIn](https://github.com/OwainWilliams/OC.Automate.LinkedIn) - 
 - [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
 - [umbraco/Umbraco.Automate](https://github.com/umbraco/Umbraco.Automate) - Automation platform for Umbraco
