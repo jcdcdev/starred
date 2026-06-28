@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent-skills](#agent-skills)
 - [ai-agents](#ai-agents)
 - [api](#api)
 - [aspnet](#aspnet)
@@ -72,6 +73,10 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [youtube](#youtube)
+
+## agent-skills 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 ## ai-agents 
 
