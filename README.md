@@ -29,7 +29,6 @@
 
 ## C# # 
 
-- [nathanwoulfe/NestingContently](https://github.com/nathanwoulfe/NestingContently) - A property editor for disabling Nested Content items and Block elements in Umbraco
 - [OwainWilliams/OC.Automate.LinkedIn](https://github.com/OwainWilliams/OC.Automate.LinkedIn) - An Umbraco.Automate Connection for posting to LinkedIn
 - [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
 - [umbraco/Umbraco.Automate](https://github.com/umbraco/Umbraco.Automate) - Automation platform for Umbraco
@@ -190,6 +189,7 @@
 
 ## TypeScript 
 
+- [nathanwoulfe/NestingContently](https://github.com/nathanwoulfe/NestingContently) - A property editor for disabling Nested Content items and Block elements in Umbraco
 - [warrenbuckley/Umbraco.Community.ManifestPeek](https://github.com/warrenbuckley/Umbraco.Community.ManifestPeek) - A simple Umbraco V14+ extension to help view extension types registered manifests to help with DX
 - [trentrand/astro-markdown-for-agents](https://github.com/trentrand/astro-markdown-for-agents) - Astro integration that generates markdown variants of your pages for AI agents
 - [mistic100/Photo-Sphere-Viewer](https://github.com/mistic100/Photo-Sphere-Viewer) - A JavaScript library to display 360° sphere panoramas.
