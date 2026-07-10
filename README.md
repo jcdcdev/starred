@@ -107,7 +107,6 @@
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) - Caddy module: dns.providers.cloudflare
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 
@@ -201,6 +200,7 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [OwainWilliams/umbPublisher](https://github.com/OwainWilliams/umbPublisher) - An Obsidian Plugin that allows you to push notes to Umbraco 15+ as content nodes
 - [LouieRichardson99/astrolab-ui](https://github.com/LouieRichardson99/astrolab-ui) - View your Astro components in one place, letting you preview them and interactively adjust props and slots in real time
 - [umbraco/Umbraco-CMS-MCP-Dev](https://github.com/umbraco/Umbraco-CMS-MCP-Dev) - 
