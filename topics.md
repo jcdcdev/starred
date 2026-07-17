@@ -326,6 +326,8 @@
 
 ## others 
 
+- [ashallcross/Umbraco.Community.AiAgentMemory](https://github.com/ashallcross/Umbraco.Community.AiAgentMemory) - Persistent memory + learning layer for Umbraco's AI agent stack — agents that get better every time they run.
+- [ashallcross/Umbraco.Community.AiVisibility](https://github.com/ashallcross/Umbraco.Community.AiVisibility) - 
 - [nathanwoulfe/NestingContently](https://github.com/nathanwoulfe/NestingContently) - A property editor for disabling Nested Content items and Block elements in Umbraco
 - [OwainWilliams/OC.Automate.LinkedIn](https://github.com/OwainWilliams/OC.Automate.LinkedIn) - An Umbraco.Automate Connection for posting to LinkedIn
 - [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
