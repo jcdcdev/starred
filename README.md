@@ -69,7 +69,7 @@
 - [jcdcdev/jcdcdev.Umbraco.Core](https://github.com/jcdcdev/jcdcdev.Umbraco.Core) - A library of essential Umbraco CMS extensions for Umbraco packages and websites 🔨
 - [jcdcdev/Umbraco.Community.BackOfficeOrganiser](https://github.com/jcdcdev/Umbraco.Community.BackOfficeOrganiser) - Keep your Umbraco CMS backoffice organised! 🧹
 - [thepensionsregulator/govuk-frontend-aspnetcore-extensions](https://github.com/thepensionsregulator/govuk-frontend-aspnetcore-extensions) - Adds client-side validation, additional components and editing in Umbraco to https://github.com/x-govuk/govuk-frontend-aspnetcore
-- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
+- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, email, OneNote, and text formats.
 - [jcdcdev/jcdcdev.Eco.Signs](https://github.com/jcdcdev/jcdcdev.Eco.Signs) - 
 - [thomasfn/EcoSmartTaxMod](https://github.com/thomasfn/EcoSmartTaxMod) - 
 - [thomasfn/EcoCivicsImportExportMod](https://github.com/thomasfn/EcoCivicsImportExportMod) - 
