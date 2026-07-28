@@ -58,6 +58,7 @@
 - [privacy](#privacy)
 - [prompt-engineering](#prompt-engineering)
 - [python](#python)
+- [rag](#rag)
 - [rails](#rails)
 - [react](#react)
 - [security](#security)
@@ -102,7 +103,7 @@
 ## c-sharp 
 
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
-- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
+- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, email, OneNote, and text formats.
 - [DanDiplo/UmbracoTraceLogViewer](https://github.com/DanDiplo/UmbracoTraceLogViewer) - An Umbraco 7.x extension for viewing Umbraco trace log files within the Developer section of Umbraco
 
 ## chrome 
@@ -178,6 +179,7 @@
 - [IEvangelist/profanity-filter](https://github.com/IEvangelist/profanity-filter) - Potty Mouth: A GitHub Action profanity filter written in .NET, leveraging Native AOT compilation.
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
+- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, email, OneNote, and text formats.
 - [callumbwhyte/msbuild-umbraco-packaging](https://github.com/callumbwhyte/msbuild-umbraco-packaging) - [WIP] A set of MSBuild tasks and targets for effortlessly building Umbraco package zip files with .NET SDK project formats
 - [skybrud/Skybrud.Umbraco.GridData](https://github.com/skybrud/Skybrud.Umbraco.GridData) - Strongly typed model for the grid in Umbraco.
 - [skybrud/Skybrud.Umbraco.GridData.LeBlender](https://github.com/skybrud/Skybrud.Umbraco.GridData.LeBlender) - LeBlender add-on for Skybrud.Umbraco.GridData.
@@ -251,7 +253,7 @@
 - [umbraco/Umbraco.CMS.Backoffice](https://github.com/umbraco/Umbraco.CMS.Backoffice) - Working repository for the Umbraco Backoffice project
 - [NikRimington/HCS.Meta.Robots](https://github.com/NikRimington/HCS.Meta.Robots) - 
 - [ldtteam/minecolonies](https://github.com/ldtteam/minecolonies) - Minecolonies minecraft mod
-- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
+- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, email, OneNote, and text formats.
 - [LottePitcher/opinionated-package-starter](https://github.com/LottePitcher/opinionated-package-starter) - Get a head start when creating Umbraco Packages
 - [mattbegent/umbraco-accessibility-reporter](https://github.com/mattbegent/umbraco-accessibility-reporter) - 
 - [rickbutterfield/BlockPreview](https://github.com/rickbutterfield/BlockPreview) - Easy to use rich HTML backoffice previews for the Umbraco Block Grid, Block List and Rich Text editors.
@@ -447,6 +449,10 @@
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
+
+## rag 
+
+- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, email, OneNote, and text formats.
 
 ## rails 
 
