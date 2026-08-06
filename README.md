@@ -83,6 +83,7 @@
 
 ## CSS 
 
+- [JanikSunke/Umbraco.Community.AI.TemplateWizard](https://github.com/JanikSunke/Umbraco.Community.AI.TemplateWizard) - AI.Template Wizard is an Umbraco CMS package that exposes AI tools for working with templates, partial views, and block components working locally! It integrates with the Umbraco.AI framework.
 - [ashallcross/Umbraco.Community.AiAgentMemory](https://github.com/ashallcross/Umbraco.Community.AiAgentMemory) - Persistent memory + learning layer for Umbraco's AI agent stack — agents that get better every time they run.
 - [justin-nevitech/Umbraco.Community.AI.LogAnalyser](https://github.com/justin-nevitech/Umbraco.Community.AI.LogAnalyser) - An Umbraco package that adds AI-powered log analysis to the backoffice log viewer. Each log entry gets an "Analyse with AI" button that sends the log message, level, timestamp, exception and propertie
 - [Lantzify/easy-entity-flags](https://github.com/Lantzify/easy-entity-flags) - Easy Entity Flags is an Umbraco package that lets you display configurable icon flags on content tree items, collection items, and document items using only appsettings.json
