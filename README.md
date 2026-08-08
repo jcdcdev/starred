@@ -19,6 +19,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [TypeSpec](#typespec)
@@ -182,6 +183,10 @@
 ## Ruby 
 
 - [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) - A self-hosted digital asset manager for 3d print files.
+
+## Rust 
+
+- [RetroRealm/playmatch](https://github.com/RetroRealm/playmatch) - A blazingly fast microservice for matching ROM file hashes and caching game metadata. Originally designed for RetroRealm.
 
 ## Shell 
 
