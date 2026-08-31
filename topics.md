@@ -236,6 +236,7 @@
 
 ## hacktoberfest 
 
+- [umbraco/UmbracoDocs](https://github.com/umbraco/UmbracoDocs) - The official Umbraco Documentation
 - [H5YR/High5YouRock](https://github.com/H5YR/High5YouRock) - H5YR website build with Umbraco 17
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
