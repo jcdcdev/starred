@@ -329,6 +329,7 @@
 
 ## others 
 
+- [jeanmatthieud/TinyXbox360BackupManager](https://github.com/jeanmatthieud/TinyXbox360BackupManager) - ⭐ A tiny game backup manager for the Xbox360
 - [mattbrailsford/umblamp](https://github.com/mattbrailsford/umblamp) - A 3D printed, Umbraco infused, smart light
 - [RetroRealm/playmatch](https://github.com/RetroRealm/playmatch) - A blazingly fast microservice for matching ROM file hashes and caching game metadata. Originally designed for RetroRealm.
 - [JanikSunke/Umbraco.Community.AI.TemplateWizard](https://github.com/JanikSunke/Umbraco.Community.AI.TemplateWizard) - AI.Template Wizard is an Umbraco CMS package that exposes AI tools for working with templates, partial views, and block components working locally! It integrates with the Umbraco.AI framework.
