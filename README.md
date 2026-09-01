@@ -192,6 +192,7 @@
 
 ## Rust 
 
+- [jeanmatthieud/TinyXbox360BackupManager](https://github.com/jeanmatthieud/TinyXbox360BackupManager) - ⭐ A tiny game backup manager for the Xbox360
 - [RetroRealm/playmatch](https://github.com/RetroRealm/playmatch) - A blazingly fast microservice for matching ROM file hashes and caching game metadata. Originally designed for RetroRealm.
 
 ## Shell 
