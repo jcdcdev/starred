@@ -32,6 +32,7 @@
 
 ## C# # 
 
+- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 - [ashallcross/Umbraco.Community.AiVisibility](https://github.com/ashallcross/Umbraco.Community.AiVisibility) - 
 - [OwainWilliams/OC.Automate.LinkedIn](https://github.com/OwainWilliams/OC.Automate.LinkedIn) - An Umbraco.Automate Connection for posting to LinkedIn
 - [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
