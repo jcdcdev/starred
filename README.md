@@ -38,7 +38,7 @@
 - [OwainWilliams/OC.Automate.Bluesky](https://github.com/OwainWilliams/OC.Automate.Bluesky) - An addon for Umbraco.Automate so you can hook in to Bluesky and post to your own timeline
 - [umbraco/Umbraco.Automate](https://github.com/umbraco/Umbraco.Automate) - Automation platform for Umbraco
 - [umbraco/Umbraco.AI](https://github.com/umbraco/Umbraco.AI) - AI integration layer for Umbraco CMS, built on Microsoft.Extensions.AI.
-- [idseefeld/PostgreSqlForUmbraco](https://github.com/idseefeld/PostgreSqlForUmbraco) - Documentation for the PostgreSQL Provider Package for Umbraco CMS
+- [idseefeld/Our.Umbraco.PostgreSql](https://github.com/idseefeld/Our.Umbraco.PostgreSql) - Documentation for the PostgreSQL Provider Package for Umbraco CMS
 - [jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedMarkdownEditor) - Get more from the Umbraco Markdown editor 📄
 - [jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor](https://github.com/jcdcdev/jcdcdev.Umbraco.ExtendedDropdownEditor) - Get more from the Umbraco Dropdown editor. A custom dropdown property editor for Umbraco that supports dynamic data sources 📃
 - [H5YR/High5YouRock](https://github.com/H5YR/High5YouRock) - H5YR website build with Umbraco 17
