@@ -47,6 +47,7 @@
 - [llm](#llm)
 - [markdown](#markdown)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [minecraft](#minecraft)
 - [monitoring](#monitoring)
 - [nestjs](#nestjs)
@@ -300,6 +301,10 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 
 ## mcp 
+
+- [Matthew-Wise/umbraco-mcp](https://github.com/Matthew-Wise/umbraco-mcp) - A model context protocol  (MCP) server for Umbraco
+
+## mcp-server 
 
 - [Matthew-Wise/umbraco-mcp](https://github.com/Matthew-Wise/umbraco-mcp) - A model context protocol  (MCP) server for Umbraco
 
