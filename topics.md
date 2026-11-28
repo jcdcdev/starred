@@ -335,6 +335,7 @@
 
 ## others 
 
+- [OwainWilliams/virtual-office](https://github.com/OwainWilliams/virtual-office) - A pixel-art office where a team of Claude agents works on your git repository
 - [jeanmatthieud/TinyXbox360BackupManager](https://github.com/jeanmatthieud/TinyXbox360BackupManager) - ⭐ A tiny game backup manager for the Xbox360
 - [mattbrailsford/umblamp](https://github.com/mattbrailsford/umblamp) - A 3D printed, Umbraco infused, smart light
 - [RetroRealm/playmatch](https://github.com/RetroRealm/playmatch) - A blazingly fast microservice for matching ROM file hashes and caching game metadata. Originally designed for RetroRealm.
